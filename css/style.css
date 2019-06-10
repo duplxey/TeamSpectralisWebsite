@@ -484,3 +484,7 @@ button:focus {
 .social-item i {
   color: white;
 }
+
+.carousel-caption p {
+  color: white;
+}

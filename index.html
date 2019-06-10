@@ -50,7 +50,7 @@
     </nav>
   </section>
   <!-- Slider -->
-  <div id="slider">
+  <div id="slider" class="d-none d-md-block">
     <div id="headerSlider" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#headerSlider" data-slide-to="0" class="active"></li>
@@ -95,13 +95,16 @@
         </div>
       </div>
       <a class="carousel-control-prev" href="#headerSlider" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-    </a>
-        <a class="carousel-control-next" href="#headerSlider" role="button" data-slide="next">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#headerSlider" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
+  </div>
+  <div id="mobile-slider" class="d-md-none">
+    <img src="img/banner/banner1.jpg" class="img-fluid" alt="Banner 1">
   </div>
   <!------About------->
   <section id="about">
@@ -307,17 +310,13 @@
       </div>
     </div>
   </section>
-  <!----------footer--------->
+  <!----------Footer --------->
   <section id="footer">
     <div class="container text-center">
       <p><i class="fa fa-copyright"></i> Team Spectralis 2019</p>
     </div>
   </section>
-  <!------Footer-close------->
   <script src="js/smooth-scroll.js"></script>
-  <script>
-    var scroll = new SmoothScroll('a[href*="#"]');
-  </script>
+  <script>new SmoothScroll('a[href*="#"]');</script>
 </body>
-
 </html>

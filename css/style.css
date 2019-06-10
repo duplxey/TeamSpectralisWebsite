@@ -117,6 +117,7 @@
   border-radius: 16px;
   background-color: #9b30ff !important;
   border-color: #ba55d3;
+  width: 100%;
 }
 .progress {
   border-radius: 16px !important;
@@ -134,7 +135,7 @@
 /*----------Services----------*/
 #services {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(img/services1.jpg);
+    url(../img/services1.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -297,7 +298,7 @@ h1::after {
 }
 #promo {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(img/services.jpg);
+    url(../img/services.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -457,10 +458,17 @@ blockquote {
 }
 #twitter {
   float: left;
-  left: center;
 }
 #media {
-  margin: 10 auto;
+  margin: 10px auto;
   margin-bottom: 721px;
   width: 1500px;
+}
+
+body {
+  background-color: #131313;
+}
+
+button:focus {
+  outline: 0;
 }

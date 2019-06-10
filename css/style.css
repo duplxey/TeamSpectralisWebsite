@@ -134,8 +134,7 @@
 }
 /*----------Services----------*/
 #services {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../img/services1.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/services1.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -158,10 +157,6 @@
   height: 3px;
   width: 170px;
   margin: 20px auto 5px;
-}
-.services {
-  margin-top: 40px;
-  position: relative;
 }
 .icon {
   position: center;
@@ -217,6 +212,11 @@
 }
 #team .container {
   margin-top: 40px;
+}
+.team-img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 15px;
 }
 h1 {
   text-align: center;
@@ -471,4 +471,17 @@ body {
 
 button:focus {
   outline: 0;
+}
+
+.social {
+
+}
+
+.social-item {
+  display: inline;
+  margin: 0 5px;
+}
+
+.social-item i {
+  color: white;
 }

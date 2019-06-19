@@ -3,10 +3,6 @@
 }
 
 @-webkit-keyframes pulsate {
-    0% {
-        color: #0B0E0F;
-    }
-    100% {
-        color: red;
-    }
+    0% {color: #0B0E0F;}
+    100% {color: red;}
 }

@@ -33,3 +33,15 @@
 .progress {
     margin-bottom: 15px;
 }
+
+.carousel-caption {
+    text-align: left;
+    margin-top: -100px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 10%;
+    transform: translate(22%, 45%);
+    max-width: 350px;
+}

@@ -1,4 +1,5 @@
 * {
+  font-family: 'Poppins', sans-serif;
   color: var(--text-color);
 }
 
@@ -13,8 +14,13 @@ body {
 }
 
 /* Footer */
+header {
+  background: #0B0E0F;
+}
+
 footer {
-  background: #070809;
+  color: var(--text-color);
+  background: #0B0E0F;
 }
 
 .footer-container-upper {
@@ -27,7 +33,7 @@ footer {
 
 .footer-container-under {
   padding: 10px;
-  background: #0c0e0f;
+  border-top: 3px solid #0c0e0f;
 }
 
 .footer-logo {

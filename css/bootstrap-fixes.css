@@ -1,0 +1,20 @@
+.bg-dark {
+    background: #0B0E0F !important;
+}
+
+.navbar {
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.navbar-brand {
+
+}
+
+.nav-link {
+    padding: 15px !important;
+}
+
+.nav-link:hover {
+    background: #1B2123;
+}

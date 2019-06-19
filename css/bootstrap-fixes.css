@@ -1,6 +1,7 @@
 /* Navbar */
 .navbar {
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 @media (min-width: 767px) {
@@ -11,17 +12,17 @@
 
 .nav-link {
     padding: 15px !important;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .nav-link:hover {
     background: #1B2123;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .navbar .active {
     background: #1B2123;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .bg-dark {

@@ -7,10 +7,6 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/carousel/1.png" alt="First slide">
-            <div class="carousel-caption d-none d-md-block">
-                <h5>Watch us live</h5>
-                <p>Everything TS, all in one place. Updates and everything fun.</p>
-            </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="img/carousel/2.png" alt="Second slide">

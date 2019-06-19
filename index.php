@@ -63,7 +63,7 @@
                 </div>
             </div>
         </div>
-        <div class="section" style="background-image: url('img/promote.png');background-size: 100%;background-attachment: scroll;padding:120px;color:white;">
+        <div class="section" style="background-image: url('img/promote.png');background-size: cover;background-position-x: 25%;background-attachment: fixed;padding:120px;color:white;">
             <div class="container">
                 <div class="center">
                     <h1>Promote with us</h1>

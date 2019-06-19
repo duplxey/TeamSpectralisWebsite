@@ -74,3 +74,8 @@ footer {
 .center {
   text-align: center;
 }
+
+.section {
+  padding: 20px;
+  background: #1B2123;
+}

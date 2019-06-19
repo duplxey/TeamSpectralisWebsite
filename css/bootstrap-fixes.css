@@ -28,3 +28,8 @@
 .bg-dark {
     background: #0B0E0F !important;
 }
+
+/* Misc */
+.progress {
+    margin-bottom: 15px;
+}

@@ -37,6 +37,7 @@
 }
 
 .dropdown-item {
+    font-weight: 600;
     color: var(--text-color-light);
     transition: 0.3s;
 }

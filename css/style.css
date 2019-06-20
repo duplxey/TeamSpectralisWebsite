@@ -104,3 +104,10 @@ ul, ol {
   width: 250px;
   height: 250px;
 }
+
+.mini-alert {
+  font-size: 9px;
+  background: var(--blue);
+  padding: 1px 2px;
+  border-radius: 2px;
+}

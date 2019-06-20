@@ -13,23 +13,21 @@
                         <a class="nav-link" href="team">Team</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="team">Merch <sup class="mini-alert">Soon</sup></a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="live"><span class="pulse">● </span>Live</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="partners">Partners</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact">Contact</a>
-                    </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Dropdown
+                            More
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Something else here</a>
+                            <a class="dropdown-item" href="contact">Contact</a>
+                            <a class="dropdown-item" href="subscribe">Subscribe</a>
                         </div>
                     </li>
                 </ul>

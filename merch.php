@@ -11,7 +11,7 @@
         <div class="row no-gutters">
             <div class="col-12 col-md-4">
                 <div class="hovereffect">
-                    <img class="img-fluid" src="img/hoodie1.jpg" alt="">
+                    <img class="img-fluid" src="img/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
                             <h2>Everlast jopica</h2>
@@ -22,7 +22,7 @@
             </div>
             <div class="col-12 col-md-4">
                 <div class="hovereffect">
-                    <img class="img-fluid" src="img/hoodie2.jpg" alt="">
+                    <img class="img-fluid" src="img/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
                             <h2>Mlad kitajček</h2>
@@ -32,7 +32,15 @@
                 </div>
             </div>
             <div class="col-12 col-md-4">
-                <img src="img/hoodie3.jpg" class="img-fluid" alt="Hoodie 3">
+                <div class="hovereffect">
+                    <img class="img-fluid" src="img/hoodie1.png" alt="">
+                    <div class="overlay">
+                        <div class="highly-padded">
+                            <h2>Mlad kitajček</h2>
+                            <a href="#" class="btn btn-primary">Buy now</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <?php include "components/footer.php" ?>

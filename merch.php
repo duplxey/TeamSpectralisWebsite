@@ -11,10 +11,10 @@
         <div class="row no-gutters">
             <div class="col-12 col-md-4">
                 <div class="hovereffect">
-                    <img class="img-fluid" src="img/merch/hoodie1.png" alt="">
+                    <img class="img-fluid" src="img/merch/hoodie1.png" alt="Hoodie 1">
                     <div class="overlay">
                         <div class="highly-padded">
-                            <h2>Everlast jopica</h2>
+                            <h2>Team Spectralis Hoodie</h2>
                             <a href="#" class="btn btn-primary">Buy now</a>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                     <img class="img-fluid" src="img/merch/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
-                            <h2>Mlad kitajček</h2>
+                            <h2>Team Spectralis Hoodie</h2>
                             <a href="#" class="btn btn-primary">Buy now</a>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                     <img class="img-fluid" src="img/merch/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
-                            <h2>Mlad kitajček</h2>
+                            <h2>Team Spectralis Hoodie</h2>
                             <a href="#" class="btn btn-primary">Buy now</a>
                         </div>
                     </div>

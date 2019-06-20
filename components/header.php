@@ -13,7 +13,7 @@
                         <a class="nav-link" href="team">Team</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="team">Merch <sup class="mini-alert">Soon</sup></a>
+                        <a class="nav-link" href="merch">Merch <sup class="mini-alert">Soon</sup></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="live"><span class="pulse">● </span>Live</a>

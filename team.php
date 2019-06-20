@@ -82,6 +82,144 @@
                         </div>
                     </div>
                 </div>
+                <h3 class="padded-top">Pros</h3>
+                <div class="row">
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h3 class="padded-top">Members</h3>
+                <div class="row">
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="center">
+                            <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
+                            <h4>Tricksy</h4>
+                            <p>Lorem ipsum dolor sit amet.</p>
+                            <div class="social">
+                                <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <?php include "components/footer.php" ?>

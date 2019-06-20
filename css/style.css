@@ -111,3 +111,19 @@ ul, ol {
   padding: 1px 2px;
   border-radius: 2px;
 }
+
+.calert {
+  padding: 4px 8px;
+  background: var(--blue-hover);
+  border-radius: 3px;
+}
+
+.padded {
+  padding: 15px 0;
+}
+
+.panel {
+  background: var(--background-dark);
+  padding: 10px;
+  margin-bottom: 15px;
+}

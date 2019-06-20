@@ -16,7 +16,7 @@
                         <a class="nav-link" href="merch">Merch <sup class="mini-alert">Soon</sup></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="live"><span class="pulse">● </span>Live</a>
+                        <a class="nav-link" href="live"><span class="pulse">● </span>Live</a><!-- TODO: make me pulse only when someone is streaming -->
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="partners">Partners</a>

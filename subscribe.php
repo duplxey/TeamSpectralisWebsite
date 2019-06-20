@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php include "components/header.php" ?>
-        <div class="section" style="background:url('img/cover/cover2.png')center;background-size:100%;">
+        <div class="section" style="background:url('img/cover/cover2.png')center;background-size: cover;">
             <div class="container">
                 <h2>Subscribe</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
@@ -29,15 +29,15 @@
                                     </div>
                                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ff938294288b301bace654f32_6a4cd1e8f2" tabindex="-1" value=""></div>
-                                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="width:100%;"></div>
+                                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="width:100%;border:0;"></div>
                                 </div>
                             </form>
                         </div>
                         <!--End mc_embed_signup-->
                     </div>
-                    <div class="col-12 col-md-6">
+                    <div class="col-12 col-md-6 mobile-padded">
                         <p>"We promise we won't spam you, but we might send you some cute cat pictures occasionally."</p>
-                        <img src="img/cat.jpg" class="img-fluid rounded" alt="Kitty" style="width: 150px;">
+                        <img src="img/subscribe/cat.jpg" class="img-fluid rounded" alt="Kitty" style="width: 150px;">
                     </div>
                 </div>
             </div>

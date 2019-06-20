@@ -5,12 +5,13 @@
     <div class="footer-container">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-3 mobile-center">
+                <div class="col-12 col-md-3 mobile-center" style="padding-bottom: 15px;">
                     <div class="footer-title">Stay in touch</div>
                     <div class="social">
                         <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
                         <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                         <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                        <a href="#"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-3 mobile-center">

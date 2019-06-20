@@ -15,7 +15,7 @@
                     <div class="col-12 col-md-6">
                         <h2>About us</h2>
                         <p>We are an ESports organization based in Europe, Slovenia. Our main focus is to provide our team members with opportunities to grow on social media, expand their gaming skills/tactics and to easily collab with other teammates.</p>
-                        <div class="btn btn-primary">Read more...</div>
+                        <a href="team" class="btn btn-primary">Read more...</a>
                     </div>
                     <div class="col-12 col-md-6">
                         <h5>Player dedication</h5>
@@ -34,10 +34,10 @@
                 </div>
             </div>
         </div>
-        <div class="section" style="background-image: url('img/servce1.png');background-size: 100%;">
+        <div class="section" style="background:url('img/index/services.png')center;background-size:cover;">
             <div class="container">
                 <div class="center">
-                    <h2>What we do <small>is go back</small></h2>
+                    <h2 class="padded">Services</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-md-4">
@@ -64,12 +64,12 @@
                 </div>
             </div>
         </div>
-        <div class="section" style="background-image: url('img/promote.png');background-size: cover;background-position-x: 25%;background-attachment: fixed;padding:120px;">
+        <div class="section" style="background-image:url('img/index/promote.png');background-size:cover;background-position-x:25%;background-attachment:fixed;padding:120px;">
             <div class="container">
                 <div class="center">
                     <h1>Promote with us</h1>
                     <p>Are you looking to advertise your product or service? If so, you are in the right place.</p>
-                    <a href="#" class="btn btn-primary">Contact Us</a>
+                    <a href="contact" class="btn btn-primary">Contact Us</a>
                 </div>
             </div>
         </div>

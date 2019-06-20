@@ -11,7 +11,7 @@
         <div class="row no-gutters">
             <div class="col-12 col-md-4">
                 <div class="hovereffect">
-                    <img class="img-fluid" src="img/hoodie1.png" alt="">
+                    <img class="img-fluid" src="img/merch/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
                             <h2>Everlast jopica</h2>
@@ -22,7 +22,7 @@
             </div>
             <div class="col-12 col-md-4">
                 <div class="hovereffect">
-                    <img class="img-fluid" src="img/hoodie1.png" alt="">
+                    <img class="img-fluid" src="img/merch/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
                             <h2>Mlad kitajček</h2>
@@ -33,7 +33,7 @@
             </div>
             <div class="col-12 col-md-4">
                 <div class="hovereffect">
-                    <img class="img-fluid" src="img/hoodie1.png" alt="">
+                    <img class="img-fluid" src="img/merch/hoodie1.png" alt="">
                     <div class="overlay">
                         <div class="highly-padded">
                             <h2>Mlad kitajček</h2>

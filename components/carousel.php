@@ -10,6 +10,7 @@
             <div class="carousel-caption d-none d-lg-block">
                 <h3>Watch us live</h3>
                 <p>Everything TS, all in one place. Updates and everything fun.</p>
+                <a href="#" class="btn btn-primary"><i class="fas fa-tv"></i> Watch</a>
             </div>
         </div>
         <div class="carousel-item">
@@ -24,6 +25,7 @@
             <div class="carousel-caption d-none d-lg-block">
                 <h3>Join us</h3>
                 <p>Tryout and get a chance to join our team. Get awesome perks like Free social media redesign and constant promotion.</p>
+                <a href="#" class="btn btn-primary"><i class="fab fa-discord"></i> Join our Discord</a>
             </div>
         </div>
     </div>

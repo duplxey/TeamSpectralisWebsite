@@ -30,7 +30,7 @@
                 <div class="col-12 col-md-3">
                     <div class="footer-title">Contact</div>
                     <ul>
-                        <li>Email: <a href="#">support@spectralis.com</a></li>
+                        <li>Email: <a href="mailto:info@teamspectralis.com">info@teamspectralis.com</a></li>
                         <li>Discord: <a href="#">Spectralis Discord</a></li>
                         <li>Contact form: <a href="#">click here</a></li>
                     </ul>

@@ -8,9 +8,9 @@
                 <div class="col-12 col-md-3 mobile-center">
                     <div class="footer-title">Stay in touch</div>
                     <div class="social">
-                        <a href="#"><i class="fab fa-facebook fa-lg social-icon"></i></a>
-                        <a href="#"><i class="fab fa-instagram fa-lg social-icon"></i></a>
-                        <a href="#"><i class="fab fa-twitter fa-lg social-icon"></i></a>
+                        <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                        <a href="#"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                        <a href="#"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-3 mobile-center">

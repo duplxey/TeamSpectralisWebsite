@@ -75,8 +75,13 @@ ul, ol {
   padding-left: 0;
 }
 
-.social-icon {
+.icon-link {
   margin: 0 1px;
+  color: var(--blue);
+}
+
+.icon-link:hover {
+  color: var(--blue-hover);
 }
 
 /* Misc

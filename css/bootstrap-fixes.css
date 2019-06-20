@@ -30,6 +30,27 @@
     background: var(--background-dark) !important;
 }
 
+.dropdown-menu {
+    margin-top: -1px;
+    background: var(--background-light) !important;
+    border-radius: 0;
+}
+
+.dropdown-item {
+    color: var(--text-color-light);
+    transition: 0.3s;
+}
+
+.dropdown-item:hover {
+    color: var(--text-color-light);
+    background: var(--background-light-hover);
+    transition: 0.3s;
+}
+
+.dropdown-divider {
+    border-top: 2px solid var(--splitter-dark);
+}
+
 /* Carousel
 ------------------------------------------------------------*/
 .carousel-caption {

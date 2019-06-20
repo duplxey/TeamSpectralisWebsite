@@ -99,3 +99,8 @@ ul, ol {
 .section {
   padding: 40px;
 }
+
+.avatar {
+  width: 250px;
+  height: 250px;
+}

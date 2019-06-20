@@ -85,7 +85,7 @@ ul, ol {
   text-align: center;
 }
 
-@media (min-width: 767px) {
+@media (max-width: 767px) {
   .mobile-center {
     text-align: center;
   }

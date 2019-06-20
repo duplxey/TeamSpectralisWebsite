@@ -1,69 +1,25 @@
 * {
-  color: var(--text-color);
+  color: var(--text-color-light);
   font-family: 'Poppins', sans-serif;
 }
 
 ::selection {
-  background: #01BCF4;
+  background: var(--blue);
 }
 
-/* width */
-::-webkit-scrollbar {
-  width: 8px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #0B0E0F;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #E0F107;
-  transition: 0.3s;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #d2e207;
-  transition: 0.3s;
-}
-
-a {
-  color: #01BCF4;
-  transition: 0.3s;
-}
-
-a:hover {
-  color: #019ccd;
-  transition: 0.3s;
-}
-
-ul, ol {
-  list-style-position: inside;
-  list-style-type: none;
-  padding-left: 0;
-}
-
+/* Containers
+------------------------------------------------------------*/
 body {
-  margin: 0;
-  padding: 0;
-  background: #0B0E0F; /* debug */
+  background: var(--background-light);
 }
 
-/* Footer */
-header {
-  background: #0B0E0F;
-}
-
-footer {
-  color: white;
-  background: #0B0E0F;
+header, footer {
+  background: var(--background-dark);
 }
 
 .footer-container-upper {
   padding: 15px;
-  border-bottom: 2px solid #151515;
+  border-bottom: 2px solid var(--splitter-dark);
 }
 
 .footer-container {
@@ -72,7 +28,7 @@ footer {
 
 .footer-container-under {
   padding: 10px;
-  background: #1B2123;
+  background: var(--background-light);
 }
 
 .footer-logo {
@@ -88,16 +44,53 @@ footer {
   font-weight: 600;
 }
 
+
+/* Scrollbar
+------------------------------------------------------------*/
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--yellow);
+}
+
+/* Other
+------------------------------------------------------------*/
+a {
+  color: #01BCF4;
+}
+
+a:hover {
+  color: #019ccd;
+}
+
+ul, ol {
+  list-style-position: inside;
+  list-style-type: none;
+  padding-left: 0;
+}
+
 .social-icon {
   margin: 0 1px;
 }
 
-/* Misc */
+/* Misc
+------------------------------------------------------------*/
 .center {
   text-align: center;
 }
 
+@media (min-width: 767px) {
+  .mobile-center {
+    text-align: center;
+  }
+}
+
 .section {
   padding: 40px;
-  background: #1B2123;
 }

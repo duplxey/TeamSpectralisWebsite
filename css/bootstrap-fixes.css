@@ -1,4 +1,5 @@
-/* Navbar */
+/* Navbar
+------------------------------------------------------------*/
 .navbar {
     text-transform: uppercase;
     font-weight: 600;
@@ -16,32 +17,32 @@
 }
 
 .nav-link:hover {
-    background: #1B2123;
+    background: var(--background-light);
     transition: 0.3s;
 }
 
 .navbar .active {
-    background: #1B2123;
+    background: var(--background-light);
     transition: 0.3s;
 }
 
 .bg-dark {
-    background: #0B0E0F !important;
+    background: var(--background-dark) !important;
 }
 
-/* Misc */
-.progress {
-    margin-bottom: 15px;
-}
-
+/* Carousel
+------------------------------------------------------------*/
 .carousel-caption {
-    text-align: left;
     margin-top: -100px;
-}
-
-.carousel-caption {
+    text-align: left;
     position: absolute;
     top: 10%;
     transform: translate(22%, 45%);
     max-width: 350px;
+}
+
+/* Other
+------------------------------------------------------------*/
+.progress {
+    margin-bottom: 15px;
 }

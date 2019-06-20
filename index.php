@@ -8,7 +8,7 @@
     <body>
         <?php include "components/header.php" ?>
         <?php include "components/carousel.php" ?>
-        <div class="section" style="color: white;">
+        <div class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-6">
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="section" style="background-image: url('img/servce1.png');background-size: 100%;color:white;">
+        <div class="section" style="background-image: url('img/servce1.png');background-size: 100%;">
             <div class="container">
                 <div class="center">
                     <h2>What we do <small>is go back</small></h2>
@@ -63,7 +63,7 @@
                 </div>
             </div>
         </div>
-        <div class="section" style="background-image: url('img/promote.png');background-size: cover;background-position-x: 25%;background-attachment: fixed;padding:120px;color:white;">
+        <div class="section" style="background-image: url('img/promote.png');background-size: cover;background-position-x: 25%;background-attachment: fixed;padding:120px;">
             <div class="container">
                 <div class="center">
                     <h1>Promote with us</h1>

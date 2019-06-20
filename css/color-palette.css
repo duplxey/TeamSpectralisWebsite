@@ -1,3 +1,16 @@
 :root {
-    --text-color: whitesmoke;
+    --text-color-light: #FFFFFF;
+    --splitter-dark: #151515;
+
+    --background-dark: #0B0E0F;
+    --background-dark-hover: #1B2123;
+    --background-light: #1B2123;
+
+    --blue: #01BCF4;
+    --blue-hover: #019CCD;
+
+    --yellow: #E0F107;
+    --yellow-hover: #c8d706;
+
+    --red: red;
 }

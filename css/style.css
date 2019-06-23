@@ -55,6 +55,10 @@ header, footer {
   font-weight: 600;
 }
 
+.section {
+  padding: 40px;
+}
+
 /* Scrollbar
 ------------------------------------------------------------*/
 ::-webkit-scrollbar {
@@ -124,8 +128,8 @@ ul, ol {
   padding: 100px;
 }
 
-.section {
-  padding: 40px;
+.transparent {
+  opacity: 0.5;
 }
 
 .avatar {

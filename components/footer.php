@@ -1,6 +1,6 @@
 <footer>
     <div class="footer-container-upper center">
-        <img src="img/logo.png" class="footer-logo" alt="Spectralis Logo">
+        <img src="<?= WROOT ?>img/logo.png" class="footer-logo" alt="Spectralis Logo">
     </div>
     <div class="footer-container">
         <div class="container">
@@ -31,15 +31,16 @@
                 <div class="col-12 col-md-3 mobile-center">
                     <div class="footer-title">Contact</div>
                     <ul>
-                        <li>Email: <a href="mailto:info@teamspectralis.com">info@teamspectralis.com</a></li>
-                        <li>Discord: <a href="#">Spectralis Discord</a></li>
-                        <li>Contact form: <a href="#">click here</a></li>
+                        <li>Email: <a href="mailto:<?= MAIL ?>"><?= MAIL ?></a></li>
+                        <li>Discord: <a href="<?= DISCORD ?>">Spectralis Discord</a></li>
+                        <li>Contact form: <a href="<?= WROOT ?>contact">click here</a></li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
     <div class="footer-container-under center">
-        © Team Spectralis 2019. All Rights Reserved
+        © Team Spectralis 2019. All Rights Reserved<br>
+        <a href="http://145.14.12.26/"><small class="transparent">Programmed by Nik Tomazic (duplxey)</small></a>
     </div>
 </footer>

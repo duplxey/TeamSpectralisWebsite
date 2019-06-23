@@ -6,26 +6,26 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="img/carousel/1.png" alt="First slide">
+            <img class="d-block w-100" src="<?= WROOT ?>img/carousel/1.png" alt="First slide">
             <div class="carousel-caption d-none d-lg-block">
                 <h3>Watch us live</h3>
                 <p>Everything TS, all in one place. Updates and everything fun.</p>
-                <a href="#" class="btn btn-primary"><i class="fas fa-tv"></i> Watch</a>
+                <a href="<?= WROOT ?>live" class="btn btn-primary"><i class="fas fa-tv"></i> Watch</a>
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="img/carousel/2.png" alt="Second slide">
+            <img class="d-block w-100" src="<?= WROOT ?>img/carousel/2.png" alt="Second slide">
             <div class="carousel-caption d-none d-lg-block">
                 <h3>Grow with us</h3>
                 <p>Join a growing community and get opportunities for collaboration and promotion.</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="img/carousel/3.png" alt="Third slide">
+            <img class="d-block w-100" src="<?= WROOT ?>img/carousel/3.png" alt="Third slide">
             <div class="carousel-caption d-none d-lg-block">
                 <h3>Join us</h3>
                 <p>Tryout and get a chance to join our team. Get awesome perks like Free social media redesign and constant promotion.</p>
-                <a href="#" class="btn btn-primary"><i class="fab fa-discord"></i> Join our Discord</a>
+                <a href="<?= DISCORD ?>" class="btn btn-primary"><i class="fab fa-discord"></i> Join our Discord</a>
             </div>
         </div>
     </div>

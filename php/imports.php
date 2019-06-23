@@ -3,13 +3,9 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap" rel="stylesheet">
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"/>
-<link rel="stylesheet" href="css/color-palette.css">
-<link rel="stylesheet" href="css/animations.css">
-<link rel="stylesheet" href="css/bootstrap-fixes.css">
-<link rel="stylesheet" href="css/style.css">
-<script>
-    $(document).ready(function() {
-        $('img').on('dragstart', false);
-    });
-</script>
+<link rel="shortcut icon" type="image/x-icon" href="<?= WROOT ?>img/favicon.ico"/>
+<link rel="stylesheet" href="<?= WROOT ?>css/color-palette.css">
+<link rel="stylesheet" href="<?= WROOT ?>css/animations.css">
+<link rel="stylesheet" href="<?= WROOT ?>css/bootstrap-fixes.css">
+<link rel="stylesheet" href="<?= WROOT ?>css/style.css">
+<script>$(document).ready(function() {$('img').on('dragstart', false);});</script>

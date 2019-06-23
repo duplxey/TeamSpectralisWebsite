@@ -1,4 +1,4 @@
-<?php include_once 'php/copyright.php' ?>
+<?php require_once 'php/config.php' ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -15,7 +15,7 @@
                     <div class="col-12 col-md-6">
                         <h2>About us</h2>
                         <p>We are an ESports organization based in Europe, Slovenia. Our main focus is to provide our team members with opportunities to grow on social media, expand their gaming skills/tactics and to easily collab with other teammates.</p>
-                        <a href="team" class="btn btn-primary">Read more...</a>
+                        <a href="<?= WROOT ?>team" class="btn btn-primary">Read more...</a>
                     </div>
                     <div class="col-12 col-md-6">
                         <h5>Player dedication</h5>
@@ -69,7 +69,7 @@
                 <div class="center">
                     <h1>Promote with us</h1>
                     <p>Are you looking to advertise your product or service? If so, you are in the right place.</p>
-                    <a href="contact" class="btn btn-primary">Contact Us</a>
+                    <a href="<?= WROOT ?>contact" class="btn btn-primary">Contact Us</a>
                 </div>
             </div>
         </div>

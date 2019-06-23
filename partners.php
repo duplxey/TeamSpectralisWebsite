@@ -1,4 +1,4 @@
-<?php include_once 'php/copyright.php' ?>
+<?php require_once 'php/config.php' ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="calert">
                     <div class="mobile-center">
-                        Are you interested in becoming our partner? <a href="contact" class="btn btn-dark">Contact us</a>
+                        Are you interested in becoming our partner? <a href="<?= WROOT ?>contact" class="btn btn-dark">Contact us</a>
                     </div>
                 </div>
             </div>

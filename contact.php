@@ -1,4 +1,4 @@
-<?php include_once 'php/copyright.php' ?>
+<?php require_once 'php/config.php' ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -34,15 +34,15 @@
                     <div class="col-md-6 mobile-padded">
                         <h3>Other contact options</h3>
                         <ul>
-                            <li>Email: <a href="mailto:%mail%">%mail%</a></li>
-                            <li>Discord: <a href="%discord%">Spectralis Discord</a></li>
+                            <li>Email: <a href="mailto:<?= MAIL ?>"><?= MAIL ?></a></li>
+                            <li>Discord: <a href="<?= DISCORD ?>">Spectralis Discord</a></li>
                         </ul>
                         <h3>Follow us on social media</h3>
                         <div class="social">
-                            <a href="%facebook%"><i class="fab fa-facebook fa-lg icon-link"></i></a>
-                            <a href="%instagram%"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                            <a href="%twitter%"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                            <a href="%youtube%"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            <a href="<?= FACEBOOK ?>"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                            <a href="<?= INSTAGRAM ?>"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                            <a href="<?= TWITTER ?>"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            <a href="<?= YOUTUBE ?>"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                         </div>
                     </div>
                 </div>

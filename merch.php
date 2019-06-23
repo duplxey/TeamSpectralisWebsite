@@ -11,7 +11,7 @@
         <div id="carousel" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/carousel/1.png" alt="First slide">
+                    <img class="d-block w-100" src="img/merch/slide.png" alt="First slide">
                     <div class="carousel-caption d-none d-lg-block">
                         <h3>Coming soon!</h3>
                         <p>Merch is currently under progress.</p>

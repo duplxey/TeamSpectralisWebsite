@@ -33,7 +33,7 @@
                     <div class="col-12 col-md-3">
                         <div class="center">
                             <img src="img/team/tricksy.jpg" class="avatar" alt="Tricky avatar">
-                            <h4>Tricksy</h4>
+                            <h4>Swagter</h4>
                             <p>Lorem ipsum dolor sit amet.</p>
                             <div class="social">
                                 <a href="#"><i class="fab fa-facebook fa-lg icon-link"></i></a>

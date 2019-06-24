@@ -8,7 +8,7 @@ DEFINE("WROOT", "http://localhost/spectralis/website/");
 
 // Social
 DEFINE("MAIL", "info@teamspectralis.com");
-DEFINE("FACEBOOK", "#");
+DEFINE("FACEBOOK", "https://www.facebook.com/TeamSpectralis/");
 DEFINE("INSTAGRAM", "https://www.instagram.com/teamspectralis/");
 DEFINE("TWITTER", "https://twitter.com/TeamSpectralis");
 DEFINE("YOUTUBE", "https://www.youtube.com/channel/UCYeVnOpF0Yt6ipAOJaFpz2g");

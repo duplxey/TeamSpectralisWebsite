@@ -31,7 +31,7 @@
                 <div class="col-12 col-md-3 mobile-center">
                     <div class="footer-title">Contact</div>
                     <ul>
-                        <li>Email: <a href="mailto:<?= MAIL ?>"><?= MAIL ?></a></li>
+                        <li>Mail: <a href="mailto:<?= MAIL ?>"><?= MAIL ?></a></li>
                         <li>Discord: <a href="<?= DISCORD ?>">Spectralis Discord</a></li>
                         <li>Contact form: <a href="<?= WROOT ?>contact">click here</a></li>
                     </ul>

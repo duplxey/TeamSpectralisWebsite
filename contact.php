@@ -18,7 +18,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <form action="https://formspree.io/teamspectralis@mailinator.com" method="POST" class="contact-form">
+                        <form action="https://formspree.io/info@teamspectralis.com" method="POST" class="contact-form">
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="Your Name" name="name">
                             </div>

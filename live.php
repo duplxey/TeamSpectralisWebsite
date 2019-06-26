@@ -10,8 +10,9 @@
         <?php include "components/header.php" ?>
         <div class="section" style="background:url('img/cover/cover1.png')center;background-size:cover;">
             <div class="container">
-                <h2>Currently live</h2>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <h2>Live</h2>
+                <p>Our members are highly motivated to bring you the best live content they can provide.
+Check them out on Youtube or Twitch on their respective channels.</p>
             </div>
         </div>
         <div class="section">

@@ -155,7 +155,7 @@
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/ClumsyMark.jpg" class="avatar" alt="">
-                            <h4>ClumsyMark</h4>
+                            <h4>Clumsy Mark</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCMacEQ-nR-W2QOt1h6oUjsw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
@@ -164,7 +164,7 @@
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/Gtehnic.png" class="avatar" alt="">
-                            <h4>Gtechnic</h4>
+                            <h4>Gtehnic</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCfBkq9Ndho8W2FJymDXeviw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>

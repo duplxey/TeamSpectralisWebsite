@@ -128,7 +128,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top">Content Creator</h3>
+                <h3 class="padded-top">Content Creators</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">

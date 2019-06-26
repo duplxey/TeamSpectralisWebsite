@@ -11,7 +11,7 @@
         <div class="section" style="background:url('img/cover/cover2.png')center;background-size: cover;">
             <div class="container">
                 <h2>Subscribe</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p>Want to keep up with everything important that is happening with our team? Subscribe and get a fancy monthly newsletter right in your mailbox.</p>
             </div>
         </div>
         <div class="section">

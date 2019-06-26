@@ -11,7 +11,7 @@
         <div class="section" style="background:url('img/cover/cover1.png')center;background-size:cover;">
             <div class="container">
                 <h2>Partners</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p>We are a new open-minded ESports organization looking for new partners and sponsors to grow and co-operate with. Our team consists of professional players, content creators and designers, but most importantly we've got the best community. Please contact us if interested.</p>
             </div>
         </div>
         <div class="section">

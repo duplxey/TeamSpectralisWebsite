@@ -154,7 +154,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/ClumsyMark.jpg" class="avatar" alt="">
+                            <img src="img/team/clumsy.png" class="avatar" alt="">
                             <h4>Clumsy Mark</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCMacEQ-nR-W2QOt1h6oUjsw"><i class="fab fa-youtube fa-lg icon-link"></i></a>

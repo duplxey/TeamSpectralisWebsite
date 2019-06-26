@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/Medo.jpeg" class="avatar" alt="">
+                            <img src="img/team/Medo.png" class="avatar" alt="">
                             <h4>Medo</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCzz0jEKPFAet_qaglwqbXMQ/videos?view_as=subscriber"><i class="fab fa-youtube fa-lg icon-link"></i></a>

@@ -17,22 +17,21 @@
         <div class="section">
             <div class="container">
                 <div id="accordion">
+                    <!-- Youtube example -->
                     <div class="card">
-                        <div class="card-header" id="heading1">
+                        <div class="card-header" id="heading3">
                             <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">Swagter <i class="fas fa-caret-down"></i></button>
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">Swagter <i class="fas fa-caret-down"></i></button>
                             </h5>
                         </div>
-                        <div id="collapse1" class="collapse show" aria-labelledby="heading1" data-parent="#accordion">
+                        <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
                             <div class="card-body">
-                                <iframe
-                                        src="https://player.twitch.tv/?channel=ogswagter"
-                                        class="livestream"
-                                        allowfullscreen>
-                                </iframe>
+                                <iframe src="https://www.youtube.com/embed/live_stream?channel=UCqIpJDo8G4YIeuvtKFHpx7A" height="600" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
+                    <!-- End of youtube example -->
+                    <!-- Twitch example -->
                     <div class="card">
                         <div class="card-header" id="heading2">
                             <h5 class="mb-0">
@@ -49,18 +48,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="card-header" id="heading3">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">Swagter <i class="fas fa-caret-down"></i></button>
-                            </h5>
-                        </div>
-                        <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
-                            <div class="card-body">
-                                <iframe src="https://www.youtube.com/embed/live_stream?channel=UCqIpJDo8G4YIeuvtKFHpx7A" height="600" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- End of twitch example -->
                 </div>
             </div>
         </div>

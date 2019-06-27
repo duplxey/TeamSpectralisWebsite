@@ -17,8 +17,8 @@
                 <div class="col-12 col-md-3 mobile-center">
                     <div class="footer-title">Useful links</div>
                     <ul>
-                        <li><a href="#">Become a sponsor</a></li>
-                        <li><a href="#">Merchandise</a></li>
+                        <li><a href="<?= WROOT ?>partners">Become a sponsor</a></li>
+                        <li><a href="<?= WROOT ?>merch">Merchandise</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-3 mobile-center">

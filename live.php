@@ -19,11 +19,18 @@
                 <div id="accordion">
                     <?php
                         $YOUTUBE_CHANNELS = array(
-                            "Swagter" => "https://www.youtube.com/embed/live_stream?channel=UCqIpJDo8G4YIeuvtKFHpx7A",
+                            "Team Spectralis" => "https://www.youtube.com/embed/live_stream?channel=UCYeVnOpF0Yt6ipAOJaFpz2g",
+                            "Gtehnic" => "https://www.youtube.com/embed/live_stream?channel=UCfBkq9Ndho8W2FJymDXeviw",
+                            "v1dus" => "https://www.youtube.com/embed/live_stream?channel=vidusslo",
+                            "Clumsy Mark" => "https://www.youtube.com/embed/live_stream?channel=UCMacEQ-nR-W2QOt1h6oUjsw",
+                            "ScorpLZ" => "https://www.youtube.com/embed/live_stream?channel=scorplz",
+                            "Aljazek" => "https://www.youtube.com/embed/live_stream?channel=UCgkTyjIHIhDoQ5QUtyNzwBA",
+                            "Swagter" => "https://www.youtube.com/embed/live_stream?channel=swagter",
                         );
 
                         $TWITCH_CHANNELS = array(
-                            "Swagter" => "https://player.twitch.tv/?channel=ogswagter",
+                            "AntonTheOne" => "https://player.twitch.tv/?channel=antontheone",
+                            "Tricksy" => "https://player.twitch.tv/?channel=tricksyfn",
                         );
 
                         $index = 1;

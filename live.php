@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <?php require_once "php/preimports.php" ?>
-        <title>Team Spectralis | Partners</title>
+        <title>Team Spectralis | Live</title>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

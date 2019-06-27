@@ -83,7 +83,7 @@
                             <h4>Aimbot</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/user/kelctimi/featured?view_as=subscriber"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/ts__aimbot"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/ts__aimbot"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

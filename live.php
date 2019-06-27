@@ -30,6 +30,7 @@
 
                         $TWITCH_CHANNELS = array(
                             "AntonTheOne" => "https://player.twitch.tv/?channel=antontheone",
+                            "Tricksy" => "https://player.twitch.tv/?channel=tricksyfn",
                         );
 
                         $index = 1;

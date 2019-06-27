@@ -68,3 +68,25 @@
 .progress {
     margin-bottom: 15px;
 }
+
+.card {
+    border: 0;
+}
+
+.card button {
+    color: var(--text-color-light);
+}
+
+.card button:hover {
+    color: var(--text-color-light);
+}
+
+.card-header {
+    background: var(--background-dark);
+    border: 0;
+}
+
+.card-body {
+    border: 0;
+    background: var(--background-panel);
+}

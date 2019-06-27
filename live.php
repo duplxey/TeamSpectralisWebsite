@@ -17,38 +17,41 @@
         <div class="section">
             <div class="container">
                 <div id="accordion">
-                    <!-- Youtube example -->
-                    <div class="card">
-                        <div class="card-header" id="heading3">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">Swagter <i class="fas fa-caret-down"></i></button>
-                            </h5>
-                        </div>
-                        <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
-                            <div class="card-body">
-                                <iframe src="https://www.youtube.com/embed/live_stream?channel=UCqIpJDo8G4YIeuvtKFHpx7A" height="600" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End of youtube example -->
-                    <!-- Twitch example -->
-                    <div class="card">
-                        <div class="card-header" id="heading2">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">Swagter <i class="fas fa-caret-down"></i></button>
-                            </h5>
-                        </div>
-                        <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
-                            <div class="card-body">
-                                <iframe
-                                        src="https://player.twitch.tv/?channel=ogswagter"
-                                        class="livestream"
-                                        allowfullscreen>
-                                </iframe>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End of twitch example -->
+                    <?php
+                        $YOUTUBE_CHANNELS = array(
+                            "Swagter" => "https://www.youtube.com/embed/live_stream?channel=UCqIpJDo8G4YIeuvtKFHpx7A",
+                        );
+
+                        $TWITCH_CHANNELS = array(
+                            "Swagter" => "https://player.twitch.tv/?channel=ogswagter",
+                        );
+
+                        $index = 1;
+
+                        /* Display all the channels */
+                        display_channels($YOUTUBE_CHANNELS);
+                        display_channels($TWITCH_CHANNELS);
+
+                        function display_channels($array) {
+                            global $index;
+
+                            foreach ($array as $author => $channel) {
+                                echo '<div class="card">';
+                                echo '<div class="card-header" id="heading' . $index . '">';
+                                echo '<h5 class="mb-0">';
+                                echo '<button class="btn btn-link" data-toggle="collapse" data-target="#collapse' . $index . '" aria-expanded="true" aria-controls="collapse' . $index . '">' . $author . ' <i class="fas fa-caret-down"></i></button>';
+                                echo '</h5>';
+                                echo '</div>';
+                                echo '<div id="collapse' . $index . '" class="collapse" aria-labelledby="heading' . $index . '" data-parent="#accordion">';
+                                echo '<div class="card-body">';
+                                echo '<iframe src="' . $channel . '" height="600" allowfullscreen></iframe>';
+                                echo '</div>';
+                                echo '</div>';
+                                echo '</div>';
+                                $index++;
+                            }
+                        }
+                    ?>
                 </div>
             </div>
         </div>

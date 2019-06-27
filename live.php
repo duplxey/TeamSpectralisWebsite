@@ -19,7 +19,7 @@ Check them out on Youtube or Twitch on their respective channels.</p>
             <div class="container">
                 <!-- TODO: list channels that are online, fullscreen one. -->
                 <iframe
-                        src="https://player.twitch.tv/ogswagter"
+                        src="https://player.twitch.tv/?channel=ogswagter"
                         class="livestream"
                         allowfullscreen="true">
                 </iframe>

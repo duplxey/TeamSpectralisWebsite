@@ -75,7 +75,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top">Pros</h3>
+                <h3 class="padded-top">Competitive</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -89,10 +89,10 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/Darkness.png" class="avatar" alt="">
-                            <h4>Darkness</h4>
+                            <img src="img/team/ATOMCF.png" class="avatar" alt="">
+                            <h4>AtomCF</h4>
                             <div class="social">
-                                <a href="https://twitter.com/ItsDarknessFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/atomcf"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -109,21 +109,20 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/Smooth.png" class="avatar" alt="">
-                            <h4>Smooth</h4>
+                            <img src="img/team/pircolino.png" class="avatar" alt="">
+                            <h4>Pircolino</h4>
                             <div class="social">
-                                <a href="https://www.instagram.com/s.emanuel.s/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UC8iHkiX9CrjBdrx0BT7PeiA?view_as=subscriber"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/pircolino"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/Sparx.png" class="avatar" alt="">
-                            <h4>Sparx</h4>
+                            <img src="img/team/Smooth.png" class="avatar" alt="">
+                            <h4>Smooth</h4>
                             <div class="social">
-                                <a href="https://www.instagram.com/hohler7/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UC5ZkVdRb4wuVJ6gLelnVwZQ?view_as=subscriber"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/s.emanuel.s/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UC8iHkiX9CrjBdrx0BT7PeiA?view_as=subscriber"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

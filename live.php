@@ -4,11 +4,11 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Live</title>
-        <meta name="description" content="live-description"/>
-        <meta name="keywords" content="keyword1, keyword2, keyword3, keyword4, keyword5"/>
+        <meta name="description" content="Watch our players and content creators live!"/>
+        <meta name="keywords" content="live, video, livestream, stream, content"/>
         <meta property="og:title" content="Team Spectralis | Live"/>
-        <meta property="og:description" content="live-description"/>
-        <meta property="og:image" content="https://teamspectralis.com/img/logo.png"/>
+        <meta property="og:description" content="Watch our players and content creators live!"/>
+        <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

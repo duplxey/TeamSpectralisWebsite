@@ -4,11 +4,11 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Subscribe</title>
-        <meta name="description" content="description"/>
-        <meta name="keywords" content="keyword1, keyword2, keyword3, keyword4, keyword5"/>
+        <meta name="description" content="Subscribe to get notified about everything new in Team Spectralis."/>
+        <meta name="keywords" content="sub, subscribe, mail, newsletter, news"/>
         <meta property="og:title" content="Team Spectralis | Subscribe"/>
-        <meta property="og:description" content="description"/>
-        <meta property="og:image" content="https://teamspectralis.com/img/logo.png"/>
+        <meta property="og:description" content="Subscribe to get notified about everything new in Team Spectralis."/>
+        <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

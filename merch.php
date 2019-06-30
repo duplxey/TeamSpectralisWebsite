@@ -4,11 +4,11 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Merch (Coming soon)</title>
-        <meta name="description" content="description"/>
-        <meta name="keywords" content="keyword1, keyword2, keyword3, keyword4, keyword5"/>
+        <meta name="description" content="Represent us with our merch!"/>
+        <meta name="keywords" content="merch, clothing, hoodie, tshirt, merchandise"/>
         <meta property="og:title" content="Team Spectralis | Merch (Coming soon)"/>
-        <meta property="og:description" content="description"/>
-        <meta property="og:image" content="https://teamspectralis.com/img/logo.png"/>
+        <meta property="og:description" content="Represent us with our merch!"/>
+        <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

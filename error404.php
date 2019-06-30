@@ -4,6 +4,11 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Error 404</title>
+        <meta name="description" content="Oops, this page could not be found! Are you sure you have the correct URL?"/>
+        <meta name="keywords" content="error, error404, no page, page, not, found"/>
+        <meta property="og:title" content="Team Spectralis | Erorr 404"/>
+        <meta property="og:description" content="Oops, this page could not be found! Are you sure you have the correct URL?"/>
+        <meta property="og:image" content="https://teamspectralis.com/img/logo.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

@@ -4,6 +4,11 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Contact Us</title>
+        <meta name="description" content="contact-us-description"/>
+        <meta name="keywords" content="keyword1, keyword2, keyword3, keyword4, keyword5"/>
+        <meta property="og:title" content="Team Spectralis | Contact Us"/>
+        <meta property="og:description" content="contact-us-description"/>
+        <meta property="og:image" content="https://teamspectralis.com/img/logo.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

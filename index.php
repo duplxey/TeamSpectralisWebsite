@@ -3,7 +3,12 @@
 <html lang="en">
     <head>
         <?php require_once "php/preimports.php" ?>
-        <title>Team Spectralis</title>
+        <title>Team Spectralis | Professional ESports Team</title>
+        <meta name="description" content="TeamSpectralis is a professional ESports organization based in Europe, Slovenia. Our main focus is to provide our team members with opportunities to grow on social media, expand their gaming skills/tactics and to easily collab with other teammates."/>
+        <meta name="keywords" content="teamspectralis, fortnite, esports, professional, team, competitive, slovenia, gaming, spectralis"/>
+        <meta property="og:title" content="Team Spectralis | Professional ESports Team"/>
+        <meta property="og:description" content="TeamSpectralis is a professional ESports organization based in Europe, Slovenia. Our main focus is to provide our team members with opportunities to grow on social media, expand their gaming skills/tactics and to easily collab with other teammates."/>
+        <meta property="og:image" content="https://teamspectralis.com/img/logo.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

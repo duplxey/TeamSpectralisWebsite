@@ -126,7 +126,7 @@
                             <img src="img/team/Smooth.png" class="avatar" alt="">
                             <h4>Smooth</h4>
                             <div class="social">
-                                <a href="https://www.instagram.com/s.emanuel.s/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/SmoothYT2"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UC8iHkiX9CrjBdrx0BT7PeiA?view_as=subscriber"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>

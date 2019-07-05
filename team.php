@@ -98,6 +98,7 @@
                             <h4>AtomCF</h4>
                             <div class="social">
                                 <a href="https://twitter.com/atomcf"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/atomcf_"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

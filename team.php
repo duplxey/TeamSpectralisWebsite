@@ -114,6 +114,17 @@
                 </div>
                 <h3 class="padded-top">Content Creators</h3>
                 <div class="row">
+                	<div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/jtb.jpg" class="avatar" alt="">
+                            <h4>JureTrsanBlond</h4>
+                            <div class="social">
+                                <a href="https://www.instagram.com/juretrsanblond/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCHw270zoTFhf80ssl7MmCDQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.facebook.com/JureTrsanB/"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/Aljazek.png" class="avatar" alt="">

@@ -115,7 +115,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/megnaroz.jpg" class="avatar" alt="">
+                            <img src="img/team/mEGNAROz.jpg" class="avatar" alt="">
                             <h4>Megnaroz</h4>
                             <div class="social">
                                 <a href="https://www.twitch.tv/megnaroz_"><i class="fab fa-twitch fa-lg icon-link"></i></a>

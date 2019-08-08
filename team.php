@@ -59,9 +59,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <h3 class="padded-top">Moderators</h3>
-                <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/jekouc.png" class="avatar" alt="">
@@ -71,6 +68,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <h3 class="padded-top">Moderators</h3>
+                <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/Medo.png" class="avatar" alt="">

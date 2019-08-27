@@ -154,7 +154,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/blank.png" class="avatar" alt="">
+                            <img src="img/team/sparx.png" class="avatar" alt="">
                             <h4>Sparx</h4>
                             <div class="social">
                                 <a href="https://twitter.com/SparxFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>

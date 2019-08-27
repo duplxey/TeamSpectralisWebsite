@@ -21,7 +21,7 @@
         </div>
         <div class="section">
             <div class="container">
-                <h3>Founders</h3>
+                <h3>Managers</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -81,8 +81,25 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/jred.jpg" class="avatar" alt="">
+                            <h4>J.Red</h4>
+                            <div class="social">
+                            	<a href="https://twitter.com/JRedDaBoi"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/pinchi.jpg" class="avatar" alt="">
+                            <h4>Pinchi</h4>
+                            <div class="social">
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <h3 class="padded-top">Competitive</h3>
+                <h3 class="padded-top">Pro Competitive</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -103,6 +120,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <h3 class="padded-top">Competitive</h3>
+                <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/Smooth.png" class="avatar" alt="">
@@ -120,6 +140,56 @@
                             <div class="social">
                                 <a href="https://www.twitch.tv/megnaroz_"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UCErnLqW9mLhqz4zGvtfKtGg"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/dinosaur.png" class="avatar" alt="">
+                            <h4>Dinosaur</h4>
+                            <div class="social">
+                                <a href="https://twitter.com/TS_Dinosaur"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/blank.png" class="avatar" alt="">
+                            <h4>Sparx</h4>
+                            <div class="social">
+                                <a href="https://twitter.com/SparxFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UC5ZkVdRb4wuVJ6gLelnVwZQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/swaggie.png" class="avatar" alt="">
+                            <h4>Swaggie</h4>
+                            <div class="social">
+                            	<a href="https://twitter.com/SwaggieFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/ImSwaggie"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCG1TNa0fCGshJWOY1sQdJFw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/t1rc.png" class="avatar" alt="">
+                            <h4>T1rc</h4>
+                            <div class="social">
+                            	<a href="https://www.twitch.tv/t1rc"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://www.twitter.com/T1rcFn"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/blank.png" class="avatar" alt="">
+                            <h4>Veloxcity</h4>
+                            <div class="social">
+                                <a href="https://www.twitch.tv/veloxcity"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/veloxcity_tv"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -188,14 +258,24 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <h3 class="padded-top">Designers / Devs</h3>
+                <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/Vidus.png" class="avatar" alt="">
-                            <h4>v1dus</h4>
+                            <img src="img/team/rexaw.jpg" class="avatar" alt="">
+                            <h4>Rexaw</h4>
                             <div class="social">
-                                <a href="https://www.instagram.com/vidusslo"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/vidusslo"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/v1dus"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/R3XAW"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/duplxey.png" class="avatar" alt="">
+                            <h4>Duplxey</h4>
+                            <div class="social">
+                                <a href="http://145.14.12.26/"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

@@ -26,7 +26,6 @@
                         $YOUTUBE_CHANNELS = array(
                             "Team Spectralis" => "https://www.youtube.com/embed/live_stream?channel=UCYeVnOpF0Yt6ipAOJaFpz2g",
                             "Gtehnic" => "https://www.youtube.com/embed/live_stream?channel=UCfBkq9Ndho8W2FJymDXeviw",
-                            "v1dus" => "https://www.youtube.com/embed/live_stream?channel=vidusslo",
                             "Clumsy Mark" => "https://www.youtube.com/embed/live_stream?channel=UCMacEQ-nR-W2QOt1h6oUjsw",
                             "ScorpLZ" => "https://www.youtube.com/embed/live_stream?channel=scorplz",
                             "Aljazek" => "https://www.youtube.com/embed/live_stream?channel=UCgkTyjIHIhDoQ5QUtyNzwBA",

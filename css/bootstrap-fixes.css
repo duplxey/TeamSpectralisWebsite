@@ -1,0 +1,92 @@
+/* Navbar
+------------------------------------------------------------*/
+.navbar {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+@media (min-width: 767px) {
+    .navbar, .navbar-expand-lg, .navbar-bg {
+        padding: 0 !important;
+    }
+}
+
+.nav-link {
+    padding: 15px !important;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    background: var(--background-light);
+    transition: 0.3s;
+}
+
+.navbar .active {
+    background: var(--background-light);
+    transition: 0.3s;
+}
+
+.bg-dark {
+    background: var(--background-dark) !important;
+}
+
+.dropdown-menu {
+    margin-top: -1px;
+    background: var(--background-light) !important;
+    border-radius: 0;
+}
+
+.dropdown-item {
+    font-weight: 600;
+    color: var(--text-color-light);
+    transition: 0.3s;
+}
+
+.dropdown-item:hover {
+    color: var(--text-color-light);
+    background: var(--background-light-hover);
+    transition: 0.3s;
+}
+
+.dropdown-divider {
+    border-top: 2px solid var(--splitter-dark);
+}
+
+/* Carousel
+------------------------------------------------------------*/
+.carousel-caption {
+    margin-top: -100px;
+    text-align: left;
+    position: absolute;
+    top: 10%;
+    transform: translate(22%, 45%);
+    max-width: 350px;
+}
+
+/* Other
+------------------------------------------------------------*/
+.progress {
+    margin-bottom: 15px;
+}
+
+.card {
+    border: 0;
+}
+
+.card button {
+    color: var(--text-color-light);
+}
+
+.card button:hover {
+    color: var(--text-color-light);
+}
+
+.card-header {
+    background: var(--background-dark);
+    border: 0;
+}
+
+.card-body {
+    border: 0;
+    background: var(--background-panel);
+}

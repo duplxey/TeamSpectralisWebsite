@@ -129,6 +129,16 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/aadoxee.png" class="avatar" alt="">
+                            <h4>Aadoxee</h4>
+                            <div class="social">
+                                <a href="https://twitter.com/aadoxee"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCzFldwXS0jAopRQw-O9fA-g"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <h3 class="padded-top">Competitive</h3>
                 <div class="row">

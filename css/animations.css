@@ -1,0 +1,8 @@
+.pulse {
+    animation: pulsate 1s alternate infinite;
+}
+
+@-webkit-keyframes pulsate {
+    0% {color: var(--background-dark);}
+    100% {color: var(--red);}
+}

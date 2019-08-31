@@ -83,6 +83,15 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
+                            <img src="img/team/rexaw.jpg" class="avatar" alt="">
+                            <h4>Rexaw</h4>
+                            <div class="social">
+                                <a href="https://twitter.com/R3XAW"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
                             <img src="img/team/jred.jpg" class="avatar" alt="">
                             <h4>J.Red</h4>
                             <div class="social">
@@ -113,7 +122,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/pircolino.png" class="avatar" alt="">
+                            <img src="img/team/PIRCOLINO.jpg" class="avatar" alt="">
                             <h4>Pircolino</h4>
                             <div class="social">
                                 <a href="https://twitter.com/pircolino"><i class="fab fa-twitter fa-lg icon-link"></i></a>
@@ -175,7 +184,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/t1rc.png" class="avatar" alt="">
+                            <img src="img/team/T1RC.jpg" class="avatar" alt="">
                             <h4>T1rc</h4>
                             <div class="social">
                             	<a href="https://www.twitch.tv/t1rc"><i class="fab fa-twitch fa-lg icon-link"></i></a>
@@ -185,7 +194,7 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/blank.png" class="avatar" alt="">
+                            <img src="img/team/VELOX.jpg" class="avatar" alt="">
                             <h4>Veloxcity</h4>
                             <div class="social">
                                 <a href="https://www.twitch.tv/veloxcity"><i class="fab fa-twitch fa-lg icon-link"></i></a>
@@ -263,19 +272,19 @@
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/rexaw.jpg" class="avatar" alt="">
-                            <h4>Rexaw</h4>
+                            <img src="img/team/duplxey.png" class="avatar" alt="">
+                            <h4>Duplxey</h4>
                             <div class="social">
-                                <a href="https://twitter.com/R3XAW"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="http://145.14.12.26/"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/duplxey.png" class="avatar" alt="">
-                            <h4>Duplxey</h4>
+                            <img src="img/team/motex.jpg" class="avatar" alt="">
+                            <h4>ItsMotex</h4>
                             <div class="social">
-                                <a href="http://145.14.12.26/"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UC1x9mVw4Kbf5Y7uLGFoldDw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

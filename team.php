@@ -204,6 +204,7 @@
                             <h4>Gtehnic</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCfBkq9Ndho8W2FJymDXeviw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/gtehnicyt/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -212,7 +213,7 @@
                             <img src="img/team/Scorp.png" class="avatar" alt="">
                             <h4>Scorp</h4>
                             <div class="social">
-                                <a href="https://www.instagram.com/ziga_lah/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/scorp_lz/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/scorplz"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                                 <a href="https://www.twitch.tv/scorplz"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>

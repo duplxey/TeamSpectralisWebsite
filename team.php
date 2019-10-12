@@ -149,6 +149,8 @@
                             <h4>Dinosaur</h4>
                             <div class="social">
                                 <a href="https://twitter.com/TS_Dinosaur"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCixWmVVZ8ozWB8-UkZZOPNQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/tsdinosaur"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

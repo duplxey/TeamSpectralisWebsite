@@ -198,51 +198,9 @@
                 </div>
                 <h3 class="padded-top">Content Creators</h3>
                 <div class="row">
-                	<div class="col-12 col-md-3 padded-top">
-                        <div class="center">
-                            <img src="img/team/jtb.jpg" class="avatar" alt="">
-                            <h4>JureTrsanBlond</h4>
-                            <div class="social">
-                                <a href="https://www.instagram.com/juretrsanblond/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UCHw270zoTFhf80ssl7MmCDQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                                <a href="https://www.facebook.com/JureTrsanB/"><i class="fab fa-facebook fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/Aljazek.png" class="avatar" alt="">
-                            <h4>Aljazek</h4>
-                            <div class="social">
-                                <a href="https://www.instagram.com/aljaz_radovan/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UCgkTyjIHIhDoQ5QUtyNzwBA"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
-                            <img src="img/team/Anton.jpg" class="avatar" alt="">
-                            <h4>AntonTheOne</h4>
-                            <div class="social">
-                                <a href="https://www.instagram.com/antonzalokar/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://twitter.com/Anton_the_one"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UCE9nVPkdCRjUCXLrSPBzfvw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/antontheone"><i class="fab fa-twitch fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
-                            <img src="img/team/clumsy.png" class="avatar" alt="">
-                            <h4>Clumsy Mark</h4>
-                            <div class="social">
-                                <a href="https://www.youtube.com/channel/UCMacEQ-nR-W2QOt1h6oUjsw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
-                            <img src="img/team/Gtehnic.png" class="avatar" alt="">
+                            <img src="img/team/gtehnic.png" class="avatar" alt="">
                             <h4>Gtehnic</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCfBkq9Ndho8W2FJymDXeviw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
@@ -260,24 +218,66 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <h3 class="padded-top">Designers / Devs</h3>
-                <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/duplxey.png" class="avatar" alt="">
-                            <h4>Duplxey</h4>
+                            <img src="img/team/Aljazek.png" class="avatar" alt="">
+                            <h4>Aljazek</h4>
                             <div class="social">
-                                <a href="http://145.14.12.26/"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/aljaz_radovan/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCgkTyjIHIhDoQ5QUtyNzwBA"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/clumsy.png" class="avatar" alt="">
+                            <h4>Clumsy Mark</h4>
+                            <div class="social">
+                                <a href="https://www.youtube.com/channel/UCMacEQ-nR-W2QOt1h6oUjsw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/Anton.jpg" class="avatar" alt="">
+                            <h4>AntonTheOne</h4>
+                            <div class="social">
+                                <a href="https://www.instagram.com/antonzalokar/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/Anton_the_one"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCE9nVPkdCRjUCXLrSPBzfvw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/antontheone"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/jtb.jpg" class="avatar" alt="">
+                            <h4>JureTrsanBlond</h4>
+                            <div class="social">
+                                <a href="https://www.instagram.com/juretrsanblond/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCHw270zoTFhf80ssl7MmCDQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.facebook.com/JureTrsanB/"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h3 class="padded-top">Designers / Devs</h3>
+                <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
                             <img src="img/team/motex.jpg" class="avatar" alt="">
                             <h4>ItsMotex</h4>
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UC1x9mVw4Kbf5Y7uLGFoldDw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/duplxey.png" class="avatar" alt="">
+                            <h4>Duplxey</h4>
+                            <div class="social">
+                                <a href="http://145.14.12.26/"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

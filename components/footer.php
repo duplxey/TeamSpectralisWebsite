@@ -24,8 +24,8 @@
                 <div class="col-12 col-md-3 mobile-center">
                     <div class="footer-title">About site</div>
                     <ul>
-                        <li><a href="#">Terms & conditions</a></li>
-                        <li><a href="#">Privacy policy</a></li>
+                        <li><a href="tos.php">Terms & conditions</a></li>
+                        <li><a href="tos.php">Privacy policy</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-3 mobile-center">

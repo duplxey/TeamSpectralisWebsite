@@ -41,8 +41,8 @@
                         <!--End mc_embed_signup-->
                     </div>
                     <div class="col-12 col-md-6 mobile-padded">
-                        <p>"We promise we won't spam you, but we might send you some cute cat pictures occasionally."</p>
-                        <img src="img/subscribe/cat.jpg" class="img-fluid rounded" alt="Kitty" style="width: 150px;">
+                        <p>"We promise we won't spam you, but we promise that we'll send you some awesome promotions and news!"</p>
+                        <img src="img/subscribe/love.png" class="img-fluid rounded" alt="Kitty" style="width: 100px;">
                     </div>
                 </div>
             </div>

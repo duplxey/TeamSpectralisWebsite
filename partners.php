@@ -52,6 +52,16 @@
                                 <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
                             </div>
                     </div>
+                    <div class="col-12 col-md-3">
+                            <div class="center padded-top">
+                                <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                            <div class="center padded-top">
+                                <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
+                            </div>
+                    </div>
                 </div>
                 <div class="calert" style="margin-top: 60px;">
                     <div class="mobile-center">

@@ -26,9 +26,10 @@
                         $YOUTUBE_CHANNELS = array(
                             "Team Spectralis" => "https://www.youtube.com/embed/live_stream?channel=UCYeVnOpF0Yt6ipAOJaFpz2g",
                             "Gtehnic" => "https://www.youtube.com/embed/live_stream?channel=UCfBkq9Ndho8W2FJymDXeviw",
-                            "Clumsy Mark" => "https://www.youtube.com/embed/live_stream?channel=UCMacEQ-nR-W2QOt1h6oUjsw",
                             "ScorpLZ" => "https://www.youtube.com/embed/live_stream?channel=UCDJ_eyz-sgsnk6zvUiPlBDw",
+                            "Clumsy Mark" => "https://www.youtube.com/embed/live_stream?channel=UCMacEQ-nR-W2QOt1h6oUjsw",
                             "Aljazek" => "https://www.youtube.com/embed/live_stream?channel=UCgkTyjIHIhDoQ5QUtyNzwBA",
+                            "RitterČančer" => "https://www.youtube.com/embed/live_stream?channel=UCGS-_XJVm8FtrH-H0QcddFw",
                             "Swagter" => "https://www.youtube.com/embed/live_stream?channel=UCuERD13bjVXRyhjYFXRy-Gg",
                         );
 

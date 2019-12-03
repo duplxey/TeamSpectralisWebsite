@@ -59,15 +59,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
-                            <img src="img/team/jekouc.png" class="avatar" alt="">
-                            <h4>Jekouc</h4>
-                            <div class="social">
-                                <a href="https://twitter.com/jekouc2"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <h3 class="padded-top">Moderators</h3>
                 <div class="row">
@@ -113,16 +104,6 @@
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/ATOMCF.png" class="avatar" alt="">
-                            <h4>AtomCF <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
-                            <div class="social">
-                                <a href="https://twitter.com/atomcf"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/atomcf_"><i class="fab fa-twitch fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
                             <img src="img/team/PIRCOLINO.jpg" class="avatar" alt="">
                             <h4>Pircolino <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
                             <div class="social">
@@ -132,11 +113,43 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/aadoxee.png" class="avatar" alt="">
-                            <h4>Aadoxee <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <img src="img/team/sparke.jpg" class="avatar" alt="">
+                            <h4>Sparke <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
                             <div class="social">
-                                <a href="https://twitter.com/aadoxee"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UCzFldwXS0jAopRQw-O9fA-g"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/SparkeFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/mrSparke"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/dinosaur.png" class="avatar" alt="">
+                            <h4>Dino <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <div class="social">
+                                <a href="https://twitter.com/TS_Dinosaur"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCixWmVVZ8ozWB8-UkZZOPNQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/tsdinosaur"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/T1RC.jpg" class="avatar" alt="">
+                            <h4>T1rc <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <div class="social">
+                            	<a href="https://www.twitch.tv/t1rc"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://www.twitter.com/T1rcFn"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/sparx.png" class="avatar" alt="">
+                            <h4>Sparx <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <div class="social">
+                                <a href="https://twitter.com/sparxfn"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UC5ZkVdRb4wuVJ6gLelnVwZQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/ts_sparx"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -155,27 +168,6 @@
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/dinosaur.png" class="avatar" alt="">
-                            <h4>Dinosaur <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
-                            <div class="social">
-                                <a href="https://twitter.com/TS_Dinosaur"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UCixWmVVZ8ozWB8-UkZZOPNQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/tsdinosaur"><i class="fab fa-twitch fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
-                            <img src="img/team/sparke.jpg" class="avatar" alt="">
-                            <h4>Sparke <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
-                            <div class="social">
-                                <a href="https://twitter.com/SparkeFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/mrSparke"><i class="fab fa-twitch fa-lg icon-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 padded-top">
-                        <div class="center">
                             <img src="img/team/swaggie.png" class="avatar" alt="">
                             <h4>Swaggie <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
                             <div class="social">
@@ -187,11 +179,31 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/T1RC.jpg" class="avatar" alt="">
-                            <h4>T1rc <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <img src="img/team/jekouc.png" class="avatar" alt="">
+                            <h4>Jekouc <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
                             <div class="social">
-                            	<a href="https://www.twitch.tv/t1rc"><i class="fab fa-twitch fa-lg icon-link"></i></a>
-                                <a href="https://www.twitter.com/T1rcFn"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/jekouc2"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/kelc.png" class="avatar" alt="">
+                            <h4>Kelc <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <div class="social">
+                                <a href="https://twitter.com/ts_kelc"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCKNcKB6glNJRefz-GjE_-kg"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
+                            <img src="img/team/pisoskill.png" class="avatar" alt="">
+                            <h4>PisoSkill <small style="font-style: italic; color:#6c757d; font-weight: bold;">(FN)</small></h4>
+                            <div class="social">
+                            	<a href="https://twitter.com/PisekLuka"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/pisoskill"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCvAPgAfzFRnOWwfSILZtriQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

@@ -292,8 +292,8 @@
                             <img src="img/team/klevz1.png" class="avatar" alt="">
                             <!--<h4>Klevz</h4>-->
                             <div class="social">
-                                <a href="https://www.youtube.com/teamspectralis"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/jost_klevze"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/teamspectralis"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -311,8 +311,8 @@
                             <img src="img/team/zonker1.png" class="avatar" alt="">
                             <!--<h4>Zonker</h4>-->
                             <div class="social">
-                                <a href="https://www.youtube.com/channel/UCKxjAXLvoQ7yWBvINlEoBng"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/ZONKER420"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCKxjAXLvoQ7yWBvINlEoBng"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>

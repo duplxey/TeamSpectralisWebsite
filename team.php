@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
-                            <img src="img/team/pircolino1.png" class="avatar" alt="">
+                            <img src="img/team/pirc1.png" class="avatar" alt="">
                             <!--<h4>Pircolino--><small style="font-style: italic; color:#E0F107; font-weight: bold;">(FN)</small><!--</h4>-->
                             <div class="social">
                                 <a href="https://twitter.com/pircolino"><i class="fab fa-twitter fa-lg icon-link"></i></a>

@@ -307,6 +307,15 @@
                     </div>
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
+                            <img src="img/team/zonker1.png" class="avatar" alt="">
+                            <!--<h4>Zonker</h4>-->
+                            <div class="social">
+                                <a href="https://www.youtube.com/channel/UCKxjAXLvoQ7yWBvINlEoBng"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 padded-top">
+                        <div class="center">
                             <img src="img/team/pinchi1.png" class="avatar" alt="">
                             <!--<h4>Pinchi</h4>-->
                             <div class="social">

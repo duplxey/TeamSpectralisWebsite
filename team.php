@@ -58,8 +58,8 @@
                             <img src="img/team/t1rc1.png" class="avatar" alt="">
                             <!--<h4>T1rc --><small style="font-style: italic; color:#d062ef; font-weight: bold;">(FN)</small></h4>
                             <div class="social">
-                            	<a href="https://www.twitch.tv/t1rc"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://www.twitter.com/T1rcFn"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            	<a href="https://www.twitch.tv/t1rc"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -103,8 +103,8 @@
                             <!--<h4>Swaggie--><small style="font-style: italic; color:#d062ef; font-weight: bold;">(FN)</small><!--</h4>-->
                             <div class="social">
                             	<a href="https://twitter.com/SwaggieFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/ImSwaggie"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UCG1TNa0fCGshJWOY1sQdJFw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/ImSwaggie"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -123,8 +123,8 @@
                             <!--<h4>PisoSkill--><small style="font-style: italic; color:#d062ef; font-weight: bold;">(FN)</small><!--</h4>-->
                             <div class="social">
                             	<a href="https://twitter.com/PisekLuka"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/pisoskill"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UCvAPgAfzFRnOWwfSILZtriQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/pisoskill"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -133,8 +133,8 @@
                             <img src="img/team/velox1.png" class="avatar" alt="">
                             <!--<h4>Veloxcity--><small style="font-style: italic; color:#d062ef; font-weight: bold;">(FN)</small><!--</h4>-->
                             <div class="social">
-                                <a href="https://www.twitch.tv/veloxcity"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/veloxcity_tv"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/veloxcity"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -143,8 +143,8 @@
                             <img src="img/team/zigyboii1.png" class="avatar" alt="">
                             <!--<h4>Zigyboii--><small style="font-style: italic; color:#d062ef; font-weight: bold;">(FN)</small><!--</h4>-->
                             <div class="social">
-                                <a href="https://www.twitch.tv/zigyboii"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/zigyboii"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/zigyboii"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>                    
@@ -166,9 +166,9 @@
                             <img src="img/team/scorplz1.png" class="avatar" alt="">
                             <!--<h4>Scorp</h4>-->
                             <div class="social">
-                                <a href="https://www.instagram.com/scorp_lz/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/scorplz"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                                 <a href="https://www.twitch.tv/scorplz"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/scorplz"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/scorp_lz/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -177,8 +177,8 @@
                             <img src="img/team/aljazek1.png" class="avatar" alt="">
                             <!--<h4>Aljazek</h4>-->
                             <div class="social">
-                                <a href="https://www.instagram.com/aljaz_radovan/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UCgkTyjIHIhDoQ5QUtyNzwBA"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/aljaz_radovan/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -188,6 +188,7 @@
                             <!--<h4>Clumsy Mark</h4>-->
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCMacEQ-nR-W2QOt1h6oUjsw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/clumsymark/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -216,10 +217,10 @@
                             <img src="img/team/antontheone1.png" class="avatar" alt="">
                             <!--<h4>AntonTheOne</h4>-->
                             <div class="social">
-                                <a href="https://www.instagram.com/antonzalokar/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                                <a href="https://www.twitch.tv/antontheone"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/Anton_the_one"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UCE9nVPkdCRjUCXLrSPBzfvw"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                                <a href="https://www.twitch.tv/antontheone"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/antonzalokar/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -228,9 +229,9 @@
                             <img src="img/team/juretrsanblond1.png" class="avatar" alt="">
                             <!--<h4>JureTrsanBlond</h4>-->
                             <div class="social">
-                                <a href="https://www.instagram.com/juretrsanblond/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                                <a href="https://www.youtube.com/channel/UCHw270zoTFhf80ssl7MmCDQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
                                 <a href="https://www.facebook.com/JureTrsanB/"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                                <a href="https://www.youtube.com/channel/UCHw270zoTFhf80ssl7MmCDQ"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/juretrsanblond/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -242,8 +243,8 @@
                             <img src="img/team/fizzy1.png" class="avatar" alt="">
                             <!--<h4>Fizzy</h4>-->
                             <div class="social">
-                                <a href="https://www.instagram.com/jaka_korosec/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/korosec_jaka"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/jaka_korosec/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -252,9 +253,9 @@
                             <img src="img/team/tricksy1.png" class="avatar" alt="">
                             <!--<h4>Tricksy</h4>-->
                             <div class="social">
-                                <a href="https://www.instagram.com/tricksyfn/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                                 <a href="https://twitter.com/TricksyFN"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                                 <a href="https://www.youtube.com/channel/UCfZJcxw2xGxWO_30s2IwcBg"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://www.instagram.com/tricksyfn/"><i class="fab fa-instagram fa-lg icon-link"></i></a>
                                 <a href="https://www.twitch.tv/tricksyfn"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>

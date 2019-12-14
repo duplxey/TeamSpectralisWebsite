@@ -21,7 +21,7 @@
         </div>
         <div class="section">
             <div class="container">
-                <h3 style="color:#E0F107;">Pro Competitive</h3>
+                <h3 style="color:#E0F107;">Pro Competitive <small style="font-size:17px;"><i class="fas fa-trophy"></i></small></h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -95,7 +95,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107;">Competitive</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Competitive <small style="font-size:17px;"><i class="fas fa-trophy"></i></small></h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -147,9 +147,9 @@
                                 <a href="https://www.twitch.tv/zigyboii"><i class="fab fa-twitch fa-lg icon-link"></i></a>
                             </div>
                         </div>
-                    </div>                    
+                    </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107;">Content Creators</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Content Creators <small style="font-size:17px;"><i class="fas fa-chart-line"></i></small></h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -236,7 +236,7 @@
                         </div>
                     </div>
                 </div>
-				<h3 class="padded-top" style="color:#E0F107;">Managers</h3>
+				<h3 class="padded-top" style="color:#E0F107;">Managers <small style="font-size:17px;"><i class="fas fa-user-cog"></i></small></h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -261,7 +261,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107;">Administrators</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Administrators <small style="font-size:17px;"><i class="fas fa-user-cog"></i></small></h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -275,9 +275,9 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107;">Moderators</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Moderators <small style="font-size:17px;"><i class="fas fa-user-cog"></i></small></h3>
                 <div class="row">
-                    <div class="col-12 col-md-3 padded-top">
+                    <div class="col-12 col-md-3 padded-top">               
                         <div class="center">
                             <img src="img/team/medo1.png" class="avatar" alt="">
                             <!--<h4>Medo</h4>-->
@@ -325,7 +325,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107;">Editors / Devs</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Editors / Devs <small style="font-size:17px;"><i class="fas fa-user-edit"></i></small></h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">

@@ -134,7 +134,7 @@ ul, ol {
 
 .avatar {
   width: 200px;
-  height: 200px;
+  height: 65px;
   margin-bottom: 15px;
   filter: grayscale(100%);
   transition-duration: 0.2s;

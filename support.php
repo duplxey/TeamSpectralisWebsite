@@ -4,10 +4,10 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Support</title>
-        <meta name="description" content="Subscribe to get notified about everything new in Team Spectralis."/>
-        <meta name="keywords" content="sub, subscribe, mail, newsletter, news"/>
-        <meta property="og:title" content="Team Spectralis | Subscribe"/>
-        <meta property="og:description" content="Subscribe to get notified about everything new in Team Spectralis."/>
+        <meta name="description" content="Support us by donating."/>
+        <meta name="keywords" content="doante, suupport, donations, dono, tip"/>
+        <meta property="og:title" content="Team Spectralis | Support"/>
+        <meta property="og:description" content="Support us by donating."/>
         <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
         <?php require_once "php/imports.php" ?>
     </head>

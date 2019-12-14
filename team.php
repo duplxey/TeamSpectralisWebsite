@@ -21,7 +21,7 @@
         </div>
         <div class="section">
             <div class="container">
-                <h3 style="color:#E0F107; font-weight: bold;">Pro Competitive</h3>
+                <h3 style="color:#E0F107;">Pro Competitive</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -95,7 +95,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107; font-weight: bold;">Competitive</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Competitive</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -149,7 +149,7 @@
                         </div>
                     </div>                    
                 </div>
-                <h3 class="padded-top" style="color:#E0F107; font-weight: bold;">Content Creators</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Content Creators</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -235,7 +235,7 @@
                         </div>
                     </div>
                 </div>
-				<h3 class="padded-top" style="color:#E0F107; font-weight: bold;">Managers</h3>
+				<h3 class="padded-top" style="color:#E0F107;">Managers</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -260,7 +260,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107; font-weight: bold;">Administrators</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Administrators</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -274,7 +274,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107; font-weight: bold;">Moderators</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Moderators</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">
@@ -311,6 +311,7 @@
                             <!--<h4>Zonker</h4>-->
                             <div class="social">
                                 <a href="https://www.youtube.com/channel/UCKxjAXLvoQ7yWBvINlEoBng"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                                <a href="https://twitter.com/ZONKER420"><i class="fab fa-twitter fa-lg icon-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -323,7 +324,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="padded-top" style="color:#E0F107; font-weight: bold;">Designers / Devs</h3>
+                <h3 class="padded-top" style="color:#E0F107;">Editors / Devs</h3>
                 <div class="row">
                     <div class="col-12 col-md-3 padded-top">
                         <div class="center">

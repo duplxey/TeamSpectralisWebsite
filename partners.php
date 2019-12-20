@@ -24,27 +24,7 @@
                 <div class="row">
                     <div class="col-12 col-md-3">
                             <div class="center padded-top">
-                                <a href="https://pbyte.si/"><img src="img/partner/pbyte.png" class="img-fluid" alt="pByte Logo"></a>
-                            </div>
-                    </div>
-                    <div class="col-12 col-md-3">
-                            <div class="center padded-top">
                                 <a href="http://www.softbase.si/"><img src="img/partner/softbase.png" class="img-fluid" alt="SoftBase Logo"></a>
-                            </div>
-                    </div>
-                    <div class="col-12 col-md-3">
-                            <div class="center padded-top">
-                                <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
-                            </div>
-                    </div>
-                    <div class="col-12 col-md-3">
-                            <div class="center padded-top">
-                                <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
-                            </div>
-                    </div>
-                    <div class="col-12 col-md-3">
-                            <div class="center padded-top">
-                                <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
                             </div>
                     </div>
                     <div class="col-12 col-md-3">

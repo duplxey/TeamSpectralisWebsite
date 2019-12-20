@@ -26,7 +26,7 @@
                        Want to support our organization? Tap on the following button to donate:                
             </div>
             <div class="row">
-            <a href="https://paypal.me/teamspectralis"><img src="img/subscribe/donate.png" class="img-fluid rounded" alt="donate" style="width: 100px;"></a>
+            <a href="tos.php"><img src="img/subscribe/donate.png" class="img-fluid rounded" alt="donate" style="width: 100px;"></a>
                 </div>
                 </div>
             </div>

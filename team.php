@@ -23,7 +23,7 @@
         <div class="section">
             <div class="container">
                 <?php
-                    $displayed_tags = [1, 2, 3];
+                    $player_tags = [1, 2, 3];
 
                     $roles_sql = "SELECT * FROM `member_roles`;";
                     $roles_stmt = $pdo->prepare($roles_sql);
@@ -31,7 +31,7 @@
                     $roles = $roles_stmt->fetchAll();
 
                     foreach ($roles as $role) {
-                        echo "<h3 style='color: var(--yellow);'>" . $role["name"] . "s <i class='" . $role["icon"] . "' style='color: var(--yellow);'></i></h3>";
+                        echo "<div class='padded-top'><h3 style='color: var(--yellow);'>" . $role["name"] . "s <i class='" . $role["icon"] . "' style='color: var(--yellow);'></i></h3></div>";
 
                         $members_sql = "SELECT * FROM `members`, `member_roles`, `member_social` WHERE `members`.`id` = member_social.id AND `members`.`role` = `member_roles`.`id` AND `member_roles`.`id` = ?;";
                         $members_stmt = $pdo->prepare($members_sql);
@@ -40,9 +40,11 @@
 
                         echo "<div class='row'>";
                         foreach ($members as $member) {
+                            $image = "img/members/" . $member["username"] . ".png";
+                            $image = file_exists($image) ? $image : "img/members/temp.png";
                             echo "<div class='col-12 col-md-3 center padded-top'>";
-                            echo "<img src='img/members/" . $member["username"] . "'.png' alt='Avatar' width='128px' style='border-radius:50%'>";
-                            echo "<h4>" . $member["username"] . (in_array($member["role"], $displayed_tags) ? ("<small style='color: var(--purple); font-size: 14px;'> (" . $member["tag"] . ")</small>") : "") . "</h4>";
+                            echo "<img src='" . $image . "' alt='Avatar' width='128px' style='border-radius:50%'>";
+                            echo "<h4>" . $member["username"] . (in_array($member["role"], $player_tags) ? ("<small style='color: var(--purple); font-size: 14px;'> (" . $member["tag"] . ")</small>") : "") . "</h4>";
                             if ($member["twitter"] != null) echo '<a href="' . $member["twitter"] . '" class="social"><i class="fab fa-twitter fa-lg icon-link"></i></a>';
                             if ($member["youtube"] != null) echo '<a href="' . $member["youtube"] . '" class="social"><i class="fab fa-youtube fa-lg icon-link"></i></a>';
                             if ($member["facebook"] != null) echo '<a href="' . $member["facebook"] . '" class="social"><i class="fab fa-facebook fa-lg icon-link"></i></a>';

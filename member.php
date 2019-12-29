@@ -1,13 +1,4 @@
 <?php require_once 'php/config.php'; ?>
-<?php require 'generate.php';
-
-if(isset($_POST["member"])){
-
-$member = $_POST["member"];
-$type = $_POST["type"];
-
-}else{header("Location: team.php");} 
-?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -29,47 +20,38 @@ $type = $_POST["type"];
             </div>
         </div>
         <div class="section">
-        <div class="container">
+            <div class="container">
                 <div class="row">
+                    <div class="col-12 col-md-6 center">
+                        <h3 class="bold">Pircolino <i class="fas fa-trophy fa-sm"></i></h3><img src="img/members/PIRCOLINO.jpg" class="img-fluid rounded" alt="Pircolino" style="width: 250px;">
+                        <div class="social-container">
+                            <a href="https://twitter.com/teamspectralis" class="social"><i class="fab fa-twitter fa-lg icon-link"></i></a>
+                            <a href="https://youtube.com/teamspectralis" class="social"><i class="fab fa-youtube fa-lg icon-link"></i></a>
+                            <a href="https://facebook.com/teamspectralis" class="social"><i class="fab fa-facebook fa-lg icon-link"></i></a>
+                            <a href="https://instagram.com/teamspectralis" class="social"><i class="fab fa-instagram fa-lg icon-link"></i></a>
+                            <a href="https://teamspectralis.com/" class="social"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
+                            <a href="https://twitch.com/teamspectralis" class="social"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                        </div>
+                    </div>
                     <div class="col-12 col-md-6">
-                    <div class="center">
-            <?php
-            if(isset($member)){
-            echo'<div class="container">';
-            if($type=="player")
-            {echo'<h3 style="color:#E0F107; font-weight:bold;">'.$member.'&nbsp;<small style="font-size:17px;"><i class="fas fa-trophy"></i></small></h3>';}
-            else if($type=="staff")
-            {echo'<h3 style="color:#E0F107; font-weight:bold;">'.$member.'&nbsp;<small style="font-size:17px;"><i class="fas fa-user-cog"></i></small></h3>';}
-            else if($type=="content")
-            {echo'<h3 style="color:#E0F107; font-weight:bold;">'.$member.'&nbsp;<small style="font-size:17px;"><i class="fas fa-chart-line"></i></small></h3>';}
-            else if($type=="devedit")
-            {echo'<h3 style="color:#E0F107; font-weight:bold;">'.$member.'&nbsp;<small style="font-size:17px;"><i class="fas fa-user-edit"></i></small></h3>';}
-
-            echo'<img src="'.@getinfo($member,"profile").'" class="img-fluid rounded" alt="'.$member.'" style="width: 250px;"></br></br>';
-
-            echo'<div class="social">';
-           @getsocials($member,"socials");
-        echo'</div>';
-
-            echo'</div>';
-            }else echo '<h3 style="color:#E0F107;">Member not selected!</h3>';
-            ?>      </div>
-            <?php
-            echo'</br><h3 style="color:#fff;">About me:</h3></br>';
-            echo'<p>'.@getinfo($member,"desc").'</br></br>'; 
-            ?>
+                        <h5>About me</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <h5>Settings</h5>
+                        <ul>
+                            <li>Sensitivity: N/A</li>
+                            <li>DPI: N/A</li>
+                            <li>Ramp: N/A</li>
+                            <li>Wall: N/A</li>
+                            <li>Floor: N/A</li>
+                            <li>Roof: N/A</li>
+                            <li>Trap: N/A</li>
+                            <li>Edit: N/A</li>
+                            <li>Use: N/A</li>
+                        </ul>
                     </div>
-                    <div class="col-12 col-md-6 mobile-padded">
-                    <div class="center">
-            <?php
-            if(isset($member)){
-                echo'</br><h3 style="color:#fff;">Settings:</h3></br>';
-                @getdata($member,"settings");
-            }
-            ?>   
-                        <a href="team.php" style="text-decoration:none;"><i class="fas fa-arrow-left"></i> Back</a>
-                       </div>
-                    </div>
+                </div>
+                <div class="float-right">
+                    <div class="btn btn-primary"><i class="fas fa-arrow-left"></i> Return</div>
                 </div>
             </div>
         </div>

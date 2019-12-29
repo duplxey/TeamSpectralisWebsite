@@ -4,6 +4,7 @@
     <head>
         <?php require_once "php/preimports.php" ?>
         <title>Team Spectralis | Merch</title>
+        <link rel="stylesheet" href="<?= WROOT ?>css/merch.css">
         <?php require_once "php/imports.php" ?>
     </head>
     <body>

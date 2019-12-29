@@ -21,15 +21,11 @@
         </div>
         <div class="section">
             <div class="container">
-                <div class="row">
-                    
-                       Want to support our organization? Tap on the following button to donate:                
+                Want to support our organization? Tap on the following button to donate:<br>
+                <!-- TODO: link the donation page -->
+                <a href="#"><img src="img/subscribe/donate.png" class="img-fluid rounded" alt="donate" style="width: 100px;"></a>
             </div>
-            <div class="row">
-            <a href="tos.php"><img src="img/subscribe/donate.png" class="img-fluid rounded" alt="donate" style="width: 100px;"></a>
-                </div>
-                </div>
-            </div>
+        </div>
         <?php include "components/footer.php" ?>
     </body>
 </html>

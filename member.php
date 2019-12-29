@@ -1,4 +1,32 @@
-<?php require_once 'php/config.php'; ?>
+<?php
+require_once 'php/config.php';
+
+$user_regex = "/^[A-z0-9_]{3,16}$/";
+
+if (!isset($_GET) || !isset($_GET["user"])) {
+    header('location: team');
+    exit();
+}
+
+$user = trim($_GET["user"]);
+
+if (!preg_match($user_regex, $_GET["user"])) {
+    header('location: error404');
+    exit();
+}
+
+$sql = "SELECT * FROM `members`, `member_roles`, `member_social` WHERE `members`.`id` = member_social.id AND `members`.`role` = `member_roles`.`id` AND `username` = ?;";
+$stmt = $pdo->prepare($sql);
+$stmt->execute([$user]);
+
+if ($stmt->rowCount() == 0) {
+    header('location: error404');
+    exit();
+}
+
+$result = $stmt->fetch();
+
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -23,35 +51,49 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-6 center">
-                        <h3 class="bold">Pircolino <i class="fas fa-trophy fa-sm"></i></h3><img src="img/members/PIRCOLINO.jpg" class="img-fluid rounded" alt="Pircolino" style="width: 250px;">
+                        <h3 class="bold" style="color: var(--yellow);"><?= $result["username"] ?> <i class="<?= $result["icon"] ?>" style="color: var(--yellow);"></i></h3>
+                        <small>(<?= $result["name"] ?>)</small>
+                        <br>
+                        <img src="img/members/<?= $result["username"] ?>.png" class="img-fluid avatar-square" alt="<?= $result["username"] ?>">
                         <div class="social-container">
-                            <a href="https://twitter.com/teamspectralis" class="social"><i class="fab fa-twitter fa-lg icon-link"></i></a>
-                            <a href="https://youtube.com/teamspectralis" class="social"><i class="fab fa-youtube fa-lg icon-link"></i></a>
-                            <a href="https://facebook.com/teamspectralis" class="social"><i class="fab fa-facebook fa-lg icon-link"></i></a>
-                            <a href="https://instagram.com/teamspectralis" class="social"><i class="fab fa-instagram fa-lg icon-link"></i></a>
-                            <a href="https://teamspectralis.com/" class="social"><i class="fab fab fa-safari fa-lg icon-link"></i></a>
-                            <a href="https://twitch.com/teamspectralis" class="social"><i class="fab fa-twitch fa-lg icon-link"></i></a>
+                            <?php
+                                if ($result["twitter"] != null) echo '<a href="' . $result["twitter"] . '" class="social"><i class="fab fa-twitter fa-lg icon-link"></i></a>';
+                                if ($result["youtube"] != null) echo '<a href="' . $result["youtube"] . '" class="social"><i class="fab fa-youtube fa-lg icon-link"></i></a>';
+                                if ($result["facebook"] != null) echo '<a href="' . $result["facebook"] . '" class="social"><i class="fab fa-facebook fa-lg icon-link"></i></a>';
+                                if ($result["instagram"] != null) echo '<a href="' . $result["instagram"] . '" class="social"><i class="fab fa-instagram fa-lg icon-link"></i></a>';
+                                if ($result["website"] != null) echo '<a href="' . $result["website"] . '" class="social"><i class="fab fab fa-safari fa-lg icon-link"></i></a>';
+                                if ($result["twitch"] != null) echo '<a href="' . $result["twitch"] . '" class="social"><i class="fab fa-twitch fa-lg icon-link"></i></a>';
+                            ?>
                         </div>
+                        <h4>About me</h4>
+                        <p><?= $result["description"] ?></p>
                     </div>
                     <div class="col-12 col-md-6">
-                        <h5>About me</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <h5>Settings</h5>
-                        <ul>
-                            <li>Sensitivity: N/A</li>
-                            <li>DPI: N/A</li>
-                            <li>Ramp: N/A</li>
-                            <li>Wall: N/A</li>
-                            <li>Floor: N/A</li>
-                            <li>Roof: N/A</li>
-                            <li>Trap: N/A</li>
-                            <li>Edit: N/A</li>
-                            <li>Use: N/A</li>
-                        </ul>
+                        <?php
+                            $f_settings_sql = "SELECT * FROM `fortnite_settings` WHERE `id` = ?;";
+                            $f_settings_stmt = $pdo->prepare($f_settings_sql);
+                            $f_settings_stmt->execute([$result["id"]]);
+                            $f_settings_result = $f_settings_stmt->fetch();
+
+                            if ($f_settings_stmt->rowCount() != 0) {
+                                echo "<h4>Settings</h4>";
+                                echo "<table class='table table-dark'>";
+                                echo "<tr><td>Sensitivity</td><td>" . $f_settings_result["sensitivity"] . "</td></tr>";
+                                echo "<tr><td>DPI</td><td>" . $f_settings_result["dpi"] . "</td></tr>";
+                                echo "<tr><td>Ramp</td><td>" . $f_settings_result["ramp"] . "</td></tr>";
+                                echo "<tr><td>Wall</td><td>" . $f_settings_result["wall"] . "</td></tr>";
+                                echo "<tr><td>Floor</td><td>" . $f_settings_result["floor"] . "</td></tr>";
+                                echo "<tr><td>Roof</td><td>" . $f_settings_result["roof"] . "</td></tr>";
+                                echo "<tr><td>Trap</td><td>" . $f_settings_result["trap"] . "</td></tr>";
+                                echo "<tr><td>Edit</td><td>" . $f_settings_result["edit"] . "</td></tr>";
+                                echo "<tr><td>Use</td><td>" . $f_settings_result["use"] . "</td></tr>";
+                                echo "</table>";
+                            }
+                        ?>
                     </div>
                 </div>
-                <div class="float-right">
-                    <div class="btn btn-primary"><i class="fas fa-arrow-left"></i> Return</div>
+                <div style="text-align: right;">
+                    <a href="<?= WROOT ?>team"><div class="btn btn-primary"><i class="fas fa-arrow-left"></i> Return</div></a>
                 </div>
             </div>
         </div>

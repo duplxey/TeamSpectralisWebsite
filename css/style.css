@@ -149,6 +149,12 @@ ul, ol {
   transition-duration: 0.2s;
 }
 
+.avatar-square {
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+}
+
 .calert {
   padding: 4px 8px;
   background: var(--blue-hover);
@@ -166,7 +172,7 @@ ul, ol {
 }
 
 .social {
-
+  padding: 0 3px;
 }
 
 .social-container {

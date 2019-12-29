@@ -14,11 +14,11 @@ DEFINE("TWITTER", "https://twitter.com/TeamSpectralis");
 DEFINE("YOUTUBE", "https://www.youtube.com/c/TeamSpectralis");
 DEFINE("DISCORD", "https://invite.gg/teamspectralis");
 
-// MySQL credentials
-DEFINE("DB_USER", "HIDDEN");
-DEFINE("DB_PASSWORD", "HIDDEN");
-DEFINE("DB_HOST", "HIDDEN");
-DEFINE("DB_NAME", "HIDDEN");
+/*
+ * If you're just setting up the workspace, you should copy database_credentials.php.foo and create
+ * database_credentials.php and fill it up with real credentials. Otherwise the site won't work!
+ */
+include_once 'database_credentials.php';
 
 try {
     $pdo = new PDO('mysql:host=' . DB_HOST . ';dbname=' . DB_NAME, DB_USER, DB_PASSWORD);

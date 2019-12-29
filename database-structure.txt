@@ -24,7 +24,7 @@ CREATE TABLE member_social(
     `twitch` VARCHAR(128) DEFAULT NULL
 );
 
-CREATE TABLE member_settings(
+CREATE TABLE member_fortnite_settings(
     `id` INT PRIMARY KEY,
     `sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
     `dpi` VARCHAR(32) DEFAULT "N/A" NOT NULL,
@@ -35,4 +35,27 @@ CREATE TABLE member_settings(
     `trap` VARCHAR(32) DEFAULT "N/A" NOT NULL,
     `edit` VARCHAR(32) DEFAULT "N/A" NOT NULL,
     `use` VARCHAR(32) DEFAULT "N/A" NOT NULL
+);
+
+CREATE TABLE member_apex_settings(
+    `id` INT PRIMARY KEY,
+    `sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `dpi` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `jump` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `crouch` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `sprint` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `use` VARCHAR(32) DEFAULT "N/A" NOT NULL
+);
+
+CREATE TABLE member_cs_settings(
+    `id` INT PRIMARY KEY,
+    `sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `dpi` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `zoom_sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `resolution` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `aspect` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `scaling` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `crosshair` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `viewmodel` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `cl_bob` VARCHAR(32) DEFAULT "N/A" NOT NULL
 );

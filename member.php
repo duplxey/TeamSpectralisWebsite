@@ -54,7 +54,7 @@ $result = $stmt->fetch();
                         <h3 class="bold" style="color: var(--yellow);"><?= $result["username"] ?> <i class="<?= $result["icon"] ?>" style="color: var(--yellow);"></i></h3>
                         <small>(<?= $result["name"] ?>)</small>
                         <br>
-                        <img src="img/members/<?= $result["username"] ?>.png" class="img-fluid avatar-square" alt="<?= $result["username"] ?>">
+                        <img src="img/members/<?= strtolower($result["username"]) ?>.png" class="img-fluid avatar-square" alt="<?= $result["username"] ?>">
                         <div class="social-container">
                             <?php
                                 if ($result["twitter"] != null) echo '<a href="' . $result["twitter"] . '" class="social"><i class="fab fa-twitter fa-lg icon-link"></i></a>';

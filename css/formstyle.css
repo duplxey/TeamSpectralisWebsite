@@ -1,0 +1,54 @@
+        input[type=submit]{
+    padding:5px 5px; 
+    background:#E0F107;
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 2px;
+    border-radius: 25px; 
+    color:#1b2123;
+    font-weight:bold;
+    font-size:11px;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+}
+input[type=submit]:hover{
+    padding:5px 5px; 
+    background:#c8d706; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 2px;
+    border-radius: 25px;
+    color:#1b2123;
+    font-weight:bold;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    font-size:11px;
+}
+form,input[type=hidden]{
+    width: 30px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+}
+form,input[type=submit]:active {
+    outline: none;
+    border: none;
+}
+.btn.active {
+    outline: none;
+    border: none;
+}
+.btn.change { 
+    outline: none;
+    border: none;
+}
+.btn.focus {
+    outline: none;
+    border:none;
+}
+.btn.launch {
+    outline: none;
+    border:none;  
+}

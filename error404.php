@@ -16,7 +16,12 @@
         <div class="section" style="background:url('img/cover/cover1.png')center;background-size:cover;">
             <div class="container">
                 <h2>Error 404</h2>
-                <p>Our ferret cannot find a site with that URL. Are you sure you have the correct URL?</p>
+                <p>The requested site could not be found.</p>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <p>Our ferret could not find the requested site. Are you sure you have the correct URL?</p>
                 <img src="img/error404.jpg" alt="Ferret searching" width="400">
             </div>
         </div>

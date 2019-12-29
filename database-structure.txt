@@ -1,0 +1,61 @@
+CREATE TABLE members(
+    `id` INT PRIMARY KEY AUTO_INCREMENT,
+    `name` VARCHAR(32) NOT NULL,
+    `surname` VARCHAR(32) NOT NULL,
+    `username` VARCHAR(32) NOT NULL UNIQUE,
+    `role` INT DEFAULT 1 NOT NULL,
+	`description` VARCHAR(750) DEFAULT "No description given."
+);
+
+CREATE TABLE member_roles(
+	`id` INT PRIMARY KEY AUTO_INCREMENT,
+    `tag` VARCHAR(8) NOT NULL UNIQUE,
+    `icon` VARCHAR(64) NOT NULL,
+    `name` VARCHAR(32) NOT NULL
+);
+
+CREATE TABLE member_social(
+	`id` INT PRIMARY KEY,
+    `twitter` VARCHAR(128) DEFAULT NULL,
+    `youtube` VARCHAR(128) DEFAULT NULL,
+    `facebook` VARCHAR(128) DEFAULT NULL,
+    `instagram` VARCHAR(128) DEFAULT NULL,
+    `website` VARCHAR(128) DEFAULT NULL,
+    `twitch` VARCHAR(128) DEFAULT NULL
+);
+
+CREATE TABLE member_fortnite_settings(
+    `id` INT PRIMARY KEY,
+    `sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `dpi` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `ramp` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `wall` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `floor` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `roof` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `trap` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `edit` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `use` VARCHAR(32) DEFAULT "N/A" NOT NULL
+);
+
+CREATE TABLE member_apex_settings(
+    `id` INT PRIMARY KEY,
+    `sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `dpi` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `jump` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `crouch` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `sprint` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `use` VARCHAR(32) DEFAULT "N/A" NOT NULL
+);
+
+CREATE TABLE member_cs_settings(
+    `id` INT PRIMARY KEY,
+    `sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `dpi` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `zoom_sensitivity` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `resolution` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `aspect` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `scaling` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `crosshair` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `viewmodel` VARCHAR(32) DEFAULT "N/A" NOT NULL,
+    `cl_bob` VARCHAR(32) DEFAULT "N/A" NOT NULL
+);

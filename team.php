@@ -40,7 +40,7 @@
 
                         echo "<div class='row'>";
                         foreach ($members as $member) {
-                            $image = "img/members/" . $member["username"] . ".png";
+                            $image = "img/members/" . strtolower($member["username"]) . ".png";
                             $image = file_exists($image) ? $image : "img/members/temp.png";
                             echo "<div class='col-12 col-md-3 center padded-top'>";
                             echo "<img src='" . $image . "' alt='Avatar' width='128px' style='border-radius:50%'>";

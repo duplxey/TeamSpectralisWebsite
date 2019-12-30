@@ -25,7 +25,7 @@
                 <?php
                     $player_tags = [1, 2, 3];
 
-                    $roles_sql = "SELECT * FROM `member_roles`;";
+                    $roles_sql = "SELECT * FROM `member_roles` WHERE (SELECT COUNT(*) FROM `members` WHERE `members`.`role` = `member_roles`.`id`);";
                     $roles_stmt = $pdo->prepare($roles_sql);
                     $roles_stmt->execute();
                     $roles = $roles_stmt->fetchAll();

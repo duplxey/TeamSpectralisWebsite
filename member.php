@@ -31,11 +31,11 @@ $result = $stmt->fetch();
 <html lang="en">
     <head>
         <?php require_once "php/preimports.php" ?>
-        <title>Team Spectralis | Member</title>
-        <meta name="description" content="Member's info."/>
-        <meta name="keywords" content="team, roster, pros, professional, staff"/>
-        <meta property="og:title" content="Team Spectralis | Member"/>
-        <meta property="og:description" content="Member's info."/>
+        <title>Team Spectralis | <?= $user ?>'s profile</title>
+        <meta name="description" content="<?= $result["description"] ?>"/>
+        <meta name="keywords" content="team, roster, pros, professional, staff, gamer, fortnite, apex, csgo"/>
+        <meta property="og:title" content="Team Spectralis | <?= $user ?>'s profile"/>
+        <meta property="og:description" content="<?= $result["description"] ?>"/>
         <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
         <?php require_once "php/imports.php" ?>
     </head>
@@ -43,8 +43,8 @@ $result = $stmt->fetch();
         <?php include "components/header.php" ?>
         <div class="section" style="background:url('img/cover/cover2.png')center;background-size:cover;">
             <div class="container">
-                <h2>Selected member</h2>
-                <p>Here you can view selected member's general info.</p>
+                <h2><?= $user ?>'s profile</h2>
+                <p>Here you can view user's general information.</p>
             </div>
         </div>
         <div class="section">

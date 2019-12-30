@@ -51,7 +51,7 @@
                             if ($member["instagram"] != null) echo '<a href="' . $member["instagram"] . '" class="social"><i class="fab fa-instagram fa-lg icon-link"></i></a>';
                             if ($member["website"] != null) echo '<a href="' . $member["website"] . '" class="social"><i class="fab fab fas fa-globe fa-lg icon-link"></i></a>';
                             if ($member["twitch"] != null) echo '<a href="' . $member["twitch"] . '" class="social"><i class="fab fa-twitch fa-lg icon-link"></i></a>';
-                            echo '<a href="' . WROOT . 'member?user=' . $member["username"] . '" class="social"><i class="fas fa-user fa-lg icon-link"></i></a>';
+                            echo '<a href="' . WROOT . 'member?user=' . $member["username"] . '" class="social"><i class="fas fa-user fa-lg icon-link-special"></i></a>';
                             echo "</div>";
                         }
                         echo "</div>";

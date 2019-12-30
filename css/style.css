@@ -110,6 +110,15 @@ ul, ol {
   color: var(--blue-hover);
 }
 
+.icon-link-special {
+  margin: 0 1px;
+  color: var(--yellow);
+}
+
+.icon-link-special:hover {
+  color: var(--yellow-hover);
+}
+
 /* Misc
 ------------------------------------------------------------*/
 .center {

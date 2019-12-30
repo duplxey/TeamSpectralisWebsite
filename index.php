@@ -25,7 +25,7 @@
                     <div class="col-12 col-md-6">
                         <h5>Player dedication</h5>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="95" style="width: 95%">95%</div>
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="95" style="width: 100%">100%</div>
                         </div>
                         <h5>Community</h5>
                         <div class="progress">
@@ -33,7 +33,7 @@
                         </div>
                         <h5>Reach</h5>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">30000+ followers across social medias</div>
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">40000+ followers across social medias.</div>
                         </div>
                     </div>
                 </div>

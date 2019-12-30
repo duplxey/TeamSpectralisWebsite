@@ -31,11 +31,11 @@ $result = $stmt->fetch();
 <html lang="en">
     <head>
         <?php require_once "php/preimports.php" ?>
-        <title>Team Spectralis | Team</title>
-        <meta name="description" content="This is our team."/>
+        <title>Team Spectralis | Member</title>
+        <meta name="description" content="Member's info."/>
         <meta name="keywords" content="team, roster, pros, professional, staff"/>
-        <meta property="og:title" content="Team Spectralis | Team"/>
-        <meta property="og:description" content="This is our team."/>
+        <meta property="og:title" content="Team Spectralis | Member"/>
+        <meta property="og:description" content="Member's info."/>
         <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
         <?php require_once "php/imports.php" ?>
     </head>

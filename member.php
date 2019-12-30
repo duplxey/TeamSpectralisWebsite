@@ -43,8 +43,8 @@ $result = $stmt->fetch();
         <?php include "components/header.php" ?>
         <div class="section" style="background:url('img/cover/cover2.png')center;background-size:cover;">
             <div class="container">
-                <h2>Team</h2>
-                <p>We strive to make our gaming community a better place for gamers looking for a team to play and cooperate with. This team is like a family to us. Down below you can see a list of our members and their social medias.</p>
+                <h2>Selected member</h2>
+                <p>Here you can view selected member's general info.</p>
             </div>
         </div>
         <div class="section">

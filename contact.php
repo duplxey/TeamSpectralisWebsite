@@ -23,16 +23,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <form action="https://formspree.io/info@teamspectralis.com" method="POST" class="contact-form">
+                        <form action="https://formsubmit.co/info@teamspectralis.com" method="POST" class="contact-form">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Name" name="name">
+                                <input type="text" class="form-control" placeholder="Your Name" name="name" required>
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Your Email" name="name">
+                                <input type="hidden" name="_replyto">
+                                <input type="email" class="form-control" placeholder="Your Email Address" name="email" required>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" rows="4" placeholder="Your Message" name="name"></textarea>
+                                <textarea class="form-control" rows="4" placeholder="Your Message" name="message" required></textarea>
                             </div>
+                            <input type="hidden" name="_subject" value="Team Spectralis Website Submission Reply.">
+                            <input type="hidden" name="_next" value="https://teamspectralis.com/success">
+                            <input type="hidden" name="_template" value="table">
+                            <input type="hidden" name="_captcha" value="true">
                             <button type="submit" class="btn btn-primary">Send</button>
                         </form>
                     </div>

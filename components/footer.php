@@ -40,7 +40,7 @@
         </div>
     </div>
     <div class="footer-container-under center">
-        © Team Spectralis 2019. All Rights Reserved<br>
+        © Team Spectralis 2020. All Rights Reserved<br>
         <a href="http://145.14.12.26/"><small class="transparent">Programmed by Nik Tomazic (duplxey)</small></a>
     </div>
 </footer>

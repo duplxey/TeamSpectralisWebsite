@@ -6,6 +6,6 @@
          | |  __/ (_| | | | | | |  ____) | |_) |  __/ (__| |_| | | (_| | | \__ \
          |_|\___|\__,_|_| |_| |_| |_____/| .__/ \___|\___|\__|_|  \__,_|_|_|___/
                                          | |
-                     © Team Spectralis 2019. All Rights Reserved
+                     © Team Spectralis 2020. All Rights Reserved
  Website has been coded & designed by duplxey (Nik Tomazic) & Swagter (Jorg Cimperman).
 -->

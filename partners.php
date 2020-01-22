@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-12 col-md-3">
                             <div class="center padded-top">
-                                <a href="#"><img src="img/partner/partner.png" class="img-fluid" alt="Partner Logo"></a>
+                                <a href="https://steelseries.com/"><img src="img/partner/steelseries.png" class="img-fluid" alt="SteelSeries Logo"></a>
                             </div>
                     </div>
                     <div class="col-12 col-md-3">

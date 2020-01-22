@@ -7,6 +7,6 @@
     <body>
         <p>Not available yet.</p>
         <a href="https://teamspectralis.com/"><p>&larr; Go back<p></a>
-        <p>© Team Spectralis 2019. All Rights Reserved</p>
+        <p>© Team Spectralis 2020. All Rights Reserved</p>
     </body>
 </html>

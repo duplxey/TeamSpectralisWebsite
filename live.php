@@ -25,17 +25,19 @@
                     <?php
                     $YOUTUBE_CHANNELS = array(
                         "Team Spectralis" => "https://www.youtube.com/embed/live_stream?channel=UCYeVnOpF0Yt6ipAOJaFpz2g",
-                        "Gtehnic" => "https://www.youtube.com/embed/live_stream?channel=UChB4J-Y_qdtbucbdlLPIgDQ",
                         "ScorpLZ" => "https://www.youtube.com/embed/live_stream?channel=UCDJ_eyz-sgsnk6zvUiPlBDw",
-                        "Clumsy Mark" => "https://www.youtube.com/embed/live_stream?channel=UCMacEQ-nR-W2QOt1h6oUjsw",
+                        "Gtehnic" => "https://www.youtube.com/embed/live_stream?channel=UChB4J-Y_qdtbucbdlLPIgDQ",
                         "Aljazek" => "https://www.youtube.com/embed/live_stream?channel=UCgkTyjIHIhDoQ5QUtyNzwBA",
-                        "RitterČančer" => "https://www.youtube.com/embed/live_stream?channel=UCGS-_XJVm8FtrH-H0QcddFw",
-                        "Swagter" => "https://www.youtube.com/embed/live_stream?channel=UCuERD13bjVXRyhjYFXRy-Gg",
+                        "Janko Kersnik" => "https://www.youtube.com/embed/live_stream?channel=UC4xU7Smo5imsR5vtPmdZOrQ",
+                        "Clumsy Mark" => "https://www.youtube.com/embed/live_stream?channel=UCMacEQ-nR-W2QOt1h6oUjsw",
                     );
 
                     $TWITCH_CHANNELS = array(
                         "AntonTheOne" => "https://player.twitch.tv/?channel=antontheone",
+					    "Veloxcity" => "https://player.twitch.tv/?channel=veloxcity",
+                        "Sparke" => "https://player.twitch.tv/?channel=mrsparke",
                         "Tricksy" => "https://player.twitch.tv/?channel=tricksyfn",
+                        "Klevz" => "https://player.twitch.tv/?channel=klevz",
                     );
 
                     $index = 1;

@@ -11,7 +11,7 @@ if($result['link']){
     $resultLink = "";
 }
 ?>
-<a class="result" <?php echo $resultLink?>>
+<div class="result" <?php echo $resultLink?>>
     <div class="row no-margin">
         <div class="col-xs-12 col-md-4 no-padding">
             <div class="result-image">
@@ -26,8 +26,9 @@ if($result['link']){
                     <li><i class="fas fa-trophy"></i><strong>Cup: </strong><?php echo $result['tournament']?></li>
                     <li><i class="fas fa-gamepad"></i><strong>Game: </strong><?php echo $result['game']?></li>
                     <li><i class="fas fa-star"></i><strong>Position: </strong><?php echo $result['placement']?></li>
+                    <li><?php echo '<a href="' . WROOT . 'member?user=' . $result["nameLink"].'">'; ?><i class="fas fa-user fa-lg icon-link-special" style="font-size: 13px;"></i><span style="font-style: italic; color:#e0f107;">View profile</span></a><li>
                 </ul>
             </div>
         </div>
     </div>
-</a>
+</div>

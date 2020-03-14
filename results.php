@@ -17,6 +17,7 @@ require_once 'php/config.php';
         <meta property="og:title" content="Team Spectralis | Results"/>
         <meta property="og:description" content="Results from tournaments"/>
         <meta property="og:image" content="https://teamspectralis.com/img/thumbnail.png"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <?php require_once "php/imports.php" ?>
     </head>
     <body>
@@ -30,26 +31,28 @@ require_once 'php/config.php';
         <div class="section">
             <div class="container">
                 <div class="row">
-                    <?
+                    <?php
                     //Always sort these by date, descending
                     $results = [
                         [
-                            "name"=>"Janez Nooobak",
+                            "name"=>"Player 1",
                             "image"=>"https://picsum.photos/400/300",
-                            "tournament" => "TeamSpectralis cup",
+                            "tournament" => "TeamSpectralis cup 1",
                             "placement" => "6th",
                             "game" => "Fortnite",
                             "link" => "#",
-                            "date" => "6.4.2020"
+                            "date" => "6.4.2020",
+                            "nameLink" => "pircolino",
                         ],
                         [
-                            "name"=>"Metka Bot",
+                            "name"=>"Player 2",
                             "image"=>"https://picsum.photos/400/300",
-                            "tournament" => "TeamSpectralis cup",
+                            "tournament" => "TeamSpectralis cup 2",
                             "placement" => "5th",
                             "game" => "Fortnite",
                             "link" => "#",
-                            "date" => "6.4.2020"
+                            "date" => "6.4.2020",
+                            "nameLink" => "pircolino",
                         ],
                     ];
                     if($results){
@@ -57,16 +60,16 @@ require_once 'php/config.php';
                         foreach($results as $result){
                             ?>
                             <div class="col-xs-12 col-md-6">
-                                <?
+                                <?php
                                 include "components/result.php";
                                 ?>
                             </div>
-                            <?
+                            <?php
                             $cc++;
                             if($cc%2 == 0){
                                 ?>
                                 <div class="clearfix"></div>
-                                <?
+                                <?php
                             }
                         }
                     }

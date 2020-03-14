@@ -93,6 +93,7 @@ a {
 
 a:hover {
   color: #019ccd;
+  text-decoration: none;
 }
 
 ul, ol {
@@ -205,6 +206,7 @@ Results
 }
 .result{
   display: block;
+  border-radius: 40%;
 }
 .result:hover,.result:focus{
   text-decoration: none;
@@ -213,18 +215,20 @@ Results
   background: #626566;
 }
 .result-image{
-  height: 160px;
+  height: 165px;
 }
 .result-image img{
   height: 100%;
   width: 100%;
   object-fit: cover;
   object-position: center center;
+  border-radius: 10px 0 0 10px;
 }
 .result-info{
   padding: 15px;
   background: #424546;
-  min-height: 160px;
+  max-height: 165px;
+ border-radius: 0 10px 10px 0;
 }
 .result-info h6{
   font-size: 0.9rem;
@@ -235,8 +239,24 @@ Results
 .result-info ul li i{
   margin-right: 3px;
 }
+
 @media (max-width: 768px){
   .result{
     margin: 0 0 30px 0;
   }
+}
+
+@media screen and (max-width:770px) {
+  .result-info{border-radius: 0 0 10px 10px; width:100%;}
+  .result-image img{border-radius: 10px 10px 0 0; width:100%;}
+}
+
+@media screen and (max-width:350px) {
+  .result{width:237px;}
+  .container{width:100%;}
+  .progress{width:237px;}
+  .footer-container{width:100%;}
+  .footer-container-under{width:100%;}
+  .footer-container-upper{width:100%;}
+  footer{width:100%}
 }

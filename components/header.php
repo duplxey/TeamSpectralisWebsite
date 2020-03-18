@@ -13,6 +13,9 @@
                         <a class="nav-link" href="<?= WROOT ?>team">Team</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="<?= WROOT ?>results">Results</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="<?= WROOT ?>merch">Merch <sup class="mini-alert">Soon</sup></a>
                     </li>
                     <li class="nav-item">

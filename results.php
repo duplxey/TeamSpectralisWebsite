@@ -25,7 +25,7 @@ require_once 'php/config.php';
         <div class="section" style="background:url('img/cover/cover1.png')center;background-size:cover;">
             <div class="container">
                 <h2>Results</h2>
-                <p>Here are some of our tournament and other event results</p>
+                <p>Here are some of our tournament and other event results (UPDATING SOON)</p>
             </div>
         </div>
         <div class="section">
@@ -35,24 +35,32 @@ require_once 'php/config.php';
                     //Always sort these by date, descending
                     $results = [
                         [
-                            "name"=>"Player 1",
-                            "image"=>"https://picsum.photos/400/300",
-                            "tournament" => "TeamSpectralis cup 1",
-                            "placement" => "6th",
+                            "name"=>"Pircolino",
+                            "image"=>"https://i.imgur.com/8vCdl6Z.png",
+                            "tournament" => "Winter royale duos - 900$",
+                            "placement" => "#52",
                             "game" => "Fortnite",
-                            "link" => "#",
-                            "date" => "6.4.2020",
+                            "link" => "https://fortnitetracker.com/events/epicgames_S11_WinterRoyale_PC_EU",
+                            "date" => "20.12.2019",
                             "nameLink" => "pircolino",
+                            "nameLink2" => "",
+                            "nameLink3" => "",
+                            "nameLink4" => "",
+                            "players" => "1",
                         ],
-                        [
-                            "name"=>"Player 2",
-                            "image"=>"https://picsum.photos/400/300",
-                            "tournament" => "TeamSpectralis cup 2",
-                            "placement" => "5th",
+                                                [
+                            "name"=>"Pircolino & Jekouc",
+                            "image"=>"https://i.imgur.com/bzYLHDH.png",
+                            "tournament" => "Contender cash cup duos event - 400$",
+                            "placement" => "#40",
                             "game" => "Fortnite",
-                            "link" => "#",
-                            "date" => "6.4.2020",
+                            "link" => "https://fortnitetracker.com/events/epicgames_S12_CC_Contenders_EU_Ghost",
+                            "date" => "18.3.2020",
                             "nameLink" => "pircolino",
+                            "nameLink2" => "jekouc",
+                            "nameLink3" => "",
+                            "nameLink4" => "",
+                            "players" => "2",
                         ],
                     ];
                     if($results){

@@ -17,7 +17,7 @@
         <div class="section" style="background:url('img/cover/cover2.png')center;background-size:cover;">
             <div class="container">
                 <h2>Team</h2>
-                <p>We are like one big family getting stronger every day! 💪 Down below you can see a list of our members, their social medias & more.</p>
+                <p>We are like one big family getting stronger every day! 💪 Down below you can see a list of our members, their social media & more.</p>
             </div>
         </div>
         <div class="section">

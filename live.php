@@ -13,7 +13,7 @@
     </head>
     <body>
         <?php include "components/header.php" ?>
-        <div class="section" style="background:url('img/cover/cover1.png')center;background-size:cover;">
+        <div class="section" style="background:url('img/cover/cover2.png')center;background-size:cover;">
             <div class="container">
                 <h2>Live</h2>
                 <p>Our members are highly motivated to bring you the best live content they can provide. Check them out on Youtube or Twitch on their respective channels.</p>

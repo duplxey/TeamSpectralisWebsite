@@ -19,7 +19,7 @@
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <h2>About us</h2>
-                        <p>We are an ESports organization based in Europe, Slovenia. Our main focus is to provide our team members with opportunities to grow on social media, expand their gaming skills/tactics and to easily collab with other teammates.</p>
+                        <p>We are an ESports organization based in Europe, Slovenia. Our main focus is to provide our team members with opportunities to grow on social media, improve their skills/tactics in gaming/social media & to easily collab with other teammates. We currently compete in Fortnite tournaments.</p>
                         <a href="<?= WROOT ?>team" class="btn btn-primary">Read more...</a>
                     </div>
                     <div class="col-12 col-md-6">
@@ -33,7 +33,7 @@
                         </div>
                         <h5>Reach</h5>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">40000+ followers across social medias.</div>
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">40000+ followers across social media.</div>
                         </div>
                     </div>
                 </div>
@@ -42,14 +42,14 @@
         <div class="section" style="background:url('img/index/services.png')center;background-size:cover;">
             <div class="container">
                 <div class="center">
-                    <h2 class="padded">Services</h2>
+                    <h2 class="padded">What we do</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-md-4">
                         <div class="center">
                             <i class="fas fa-gamepad fa-5x"></i>
-                            <h3>Gaming</h3>
-                            <p>We're all passionate gamers that are either really good at the game or even compete.</p>
+                            <h3>Competitive Gaming</h3>
+                            <p>We're all passionate gamers that are either really good at games or even compete.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
@@ -63,7 +63,7 @@
                         <div class="center">
                             <i class="fas fa-signal fa-5x"></i>
                             <h3>Promotion</h3>
-                            <p>We are a growing, open-minded community giving growth opportunities to our team members and other partners.</p>
+                            <p>We are a fast-growing, open-minded community giving growth opportunities to our team members and other partners.</p>
                         </div>
                     </div>
                 </div>

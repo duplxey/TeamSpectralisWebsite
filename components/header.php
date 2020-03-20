@@ -16,16 +16,16 @@
                         <a class="nav-link" href="<?= WROOT ?>results">Results</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= WROOT ?>merch">Merch <sup class="mini-alert">Soon</sup></a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="<?= WROOT ?>live"><span class="pulse">● </span>Live</a><!-- TODO: make me pulse only when someone is streaming -->
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?= WROOT ?>partners">Partners</a>
                     </li>
-                    <li class="nav-item">
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="<?= WROOT ?>support">Support us</a>
+                    </li>-->
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?= WROOT ?>merch">Merch <sup class="mini-alert">Soon</sup></a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
